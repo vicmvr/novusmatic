@@ -1,0 +1,749 @@
+C:\Users\Victor\documents\visual studio 2015\Projects\Novusmatic\Novusmatic\bin\Debug\Novusmatic.exe
+C:\Users\Victor\documents\visual studio 2015\Projects\Novusmatic\Novusmatic\bin\Debug\Novusmatic.pdb
+C:\Users\Victor\documents\visual studio 2015\Projects\Novusmatic\Novusmatic\obj\Debug\Novusmatic.frmCatalogo.resources
+C:\Users\Victor\documents\visual studio 2015\Projects\Novusmatic\Novusmatic\obj\Debug\Novusmatic.frmNovusmatic.resources
+C:\Users\Victor\documents\visual studio 2015\Projects\Novusmatic\Novusmatic\obj\Debug\Novusmatic.Properties.Resources.resources
+C:\Users\Victor\documents\visual studio 2015\Projects\Novusmatic\Novusmatic\obj\Debug\Novusmatic.csproj.GenerateResource.Cache
+C:\Users\Victor\documents\visual studio 2015\Projects\Novusmatic\Novusmatic\obj\Debug\Novusmatic.exe
+C:\Users\Victor\documents\visual studio 2015\Projects\Novusmatic\Novusmatic\obj\Debug\Novusmatic.pdb
+C:\Users\Victor\documents\visual studio 2015\Projects\Novusmatic\Novusmatic\obj\Debug\Novusmatic.frmBuscarMoneda.resources
+C:\Users\Victor\documents\visual studio 2015\Projects\Novusmatic\Novusmatic\bin\Debug\Novusmatic.exe.config
+C:\Users\Victor\documents\visual studio 2015\Projects\Novusmatic\Novusmatic\bin\Debug\MySql.Data.dll
+C:\Users\Victor\Documents\Visual Studio 2015\Projects\Novusmatic\Novusmatic\bin\Debug\IrisSkin2.dll
+C:\Users\Victor\Documents\Visual Studio 2015\Projects\Novusmatic\Novusmatic\bin\Debug\Novusmatic.exe.manifest
+C:\Users\Victor\Documents\Visual Studio 2015\Projects\Novusmatic\Novusmatic\bin\Debug\Novusmatic.application
+C:\Users\Victor\Documents\Visual Studio 2015\Projects\Novusmatic\Novusmatic\obj\Debug\Novusmatic.exe.manifest
+C:\Users\Victor\Documents\Visual Studio 2015\Projects\Novusmatic\Novusmatic\obj\Debug\Novusmatic.application
+C:\Users\Victor\Documents\Visual Studio 2015\Projects\Novusmatic\Novusmatic\bin\Debug\DevExpress.Charts.v15.1.Core.dll
+C:\Users\Victor\Documents\Visual Studio 2015\Projects\Novusmatic\Novusmatic\bin\Debug\DevExpress.Data.v15.1.dll
+C:\Users\Victor\Documents\Visual Studio 2015\Projects\Novusmatic\Novusmatic\bin\Debug\DevExpress.DataAccess.v15.1.dll
+C:\Users\Victor\Documents\Visual Studio 2015\Projects\Novusmatic\Novusmatic\bin\Debug\DevExpress.Office.v15.1.Core.dll
+C:\Users\Victor\Documents\Visual Studio 2015\Projects\Novusmatic\Novusmatic\bin\Debug\DevExpress.PivotGrid.v15.1.Core.dll
+C:\Users\Victor\Documents\Visual Studio 2015\Projects\Novusmatic\Novusmatic\bin\Debug\DevExpress.Printing.v15.1.Core.dll
+C:\Users\Victor\Documents\Visual Studio 2015\Projects\Novusmatic\Novusmatic\bin\Debug\DevExpress.RichEdit.v15.1.Core.dll
+C:\Users\Victor\Documents\Visual Studio 2015\Projects\Novusmatic\Novusmatic\bin\Debug\DevExpress.Sparkline.v15.1.Core.dll
+C:\Users\Victor\Documents\Visual Studio 2015\Projects\Novusmatic\Novusmatic\bin\Debug\DevExpress.Utils.v15.1.dll
+C:\Users\Victor\Documents\Visual Studio 2015\Projects\Novusmatic\Novusmatic\bin\Debug\DevExpress.Utils.v15.1.UI.dll
+C:\Users\Victor\Documents\Visual Studio 2015\Projects\Novusmatic\Novusmatic\bin\Debug\DevExpress.Xpo.v15.1.dll
+C:\Users\Victor\Documents\Visual Studio 2015\Projects\Novusmatic\Novusmatic\bin\Debug\DevExpress.XtraCharts.v15.1.dll
+C:\Users\Victor\Documents\Visual Studio 2015\Projects\Novusmatic\Novusmatic\bin\Debug\DevExpress.XtraEditors.v15.1.dll
+C:\Users\Victor\Documents\Visual Studio 2015\Projects\Novusmatic\Novusmatic\bin\Debug\DevExpress.XtraGauges.v15.1.Core.dll
+C:\Users\Victor\Documents\Visual Studio 2015\Projects\Novusmatic\Novusmatic\bin\Debug\DevExpress.XtraPrinting.v15.1.dll
+C:\Users\Victor\Documents\Visual Studio 2015\Projects\Novusmatic\Novusmatic\bin\Debug\DevExpress.XtraReports.v15.1.dll
+C:\Users\Victor\Documents\Visual Studio 2015\Projects\Novusmatic\Novusmatic\bin\Debug\DevExpress.XtraReports.v15.1.Extensions.dll
+C:\Users\Victor\Documents\Visual Studio 2015\Projects\Novusmatic\Novusmatic\bin\Debug\DevExpress.XtraBars.v15.1.dll
+C:\Users\Victor\Documents\Visual Studio 2015\Projects\Novusmatic\Novusmatic\bin\Debug\DevExpress.XtraTreeList.v15.1.dll
+C:\Users\Victor\Documents\Visual Studio 2015\Projects\Novusmatic\Novusmatic\bin\Debug\DevExpress.XtraRichEdit.v15.1.dll
+C:\Users\Victor\Documents\Visual Studio 2015\Projects\Novusmatic\Novusmatic\bin\Debug\DevExpress.XtraVerticalGrid.v15.1.dll
+C:\Users\Victor\Documents\Visual Studio 2015\Projects\Novusmatic\Novusmatic\bin\Debug\DevExpress.XtraLayout.v15.1.dll
+C:\Users\Victor\Documents\Visual Studio 2015\Projects\Novusmatic\Novusmatic\bin\Debug\DevExpress.XtraCharts.v15.1.Extensions.dll
+C:\Users\Victor\Documents\Visual Studio 2015\Projects\Novusmatic\Novusmatic\bin\Debug\DevExpress.XtraPivotGrid.v15.1.dll
+C:\Users\Victor\Documents\Visual Studio 2015\Projects\Novusmatic\Novusmatic\bin\Debug\DevExpress.XtraNavBar.v15.1.dll
+C:\Users\Victor\Documents\Visual Studio 2015\Projects\Novusmatic\Novusmatic\bin\Debug\DevExpress.CodeParser.v15.1.dll
+C:\Users\Victor\Documents\Visual Studio 2015\Projects\Novusmatic\Novusmatic\bin\Debug\DevExpress.DataAccess.v15.1.UI.dll
+C:\Users\Victor\Documents\Visual Studio 2015\Projects\Novusmatic\Novusmatic\bin\Debug\DevExpress.XtraCharts.v15.1.Wizard.dll
+C:\Users\Victor\Documents\Visual Studio 2015\Projects\Novusmatic\Novusmatic\bin\Debug\DevExpress.XtraGrid.v15.1.dll
+C:\Users\Victor\Documents\Visual Studio 2015\Projects\Novusmatic\Novusmatic\bin\Debug\DevExpress.Data.v15.1.xml
+C:\Users\Victor\Documents\Visual Studio 2015\Projects\Novusmatic\Novusmatic\bin\Debug\DevExpress.DataAccess.v15.1.xml
+C:\Users\Victor\Documents\Visual Studio 2015\Projects\Novusmatic\Novusmatic\bin\Debug\DevExpress.Office.v15.1.Core.xml
+C:\Users\Victor\Documents\Visual Studio 2015\Projects\Novusmatic\Novusmatic\bin\Debug\DevExpress.PivotGrid.v15.1.Core.xml
+C:\Users\Victor\Documents\Visual Studio 2015\Projects\Novusmatic\Novusmatic\bin\Debug\DevExpress.Printing.v15.1.Core.xml
+C:\Users\Victor\Documents\Visual Studio 2015\Projects\Novusmatic\Novusmatic\bin\Debug\DevExpress.RichEdit.v15.1.Core.xml
+C:\Users\Victor\Documents\Visual Studio 2015\Projects\Novusmatic\Novusmatic\bin\Debug\DevExpress.Sparkline.v15.1.Core.xml
+C:\Users\Victor\Documents\Visual Studio 2015\Projects\Novusmatic\Novusmatic\bin\Debug\DevExpress.Utils.v15.1.xml
+C:\Users\Victor\Documents\Visual Studio 2015\Projects\Novusmatic\Novusmatic\bin\Debug\DevExpress.Utils.v15.1.UI.xml
+C:\Users\Victor\Documents\Visual Studio 2015\Projects\Novusmatic\Novusmatic\bin\Debug\DevExpress.Xpo.v15.1.xml
+C:\Users\Victor\Documents\Visual Studio 2015\Projects\Novusmatic\Novusmatic\bin\Debug\DevExpress.XtraCharts.v15.1.xml
+C:\Users\Victor\Documents\Visual Studio 2015\Projects\Novusmatic\Novusmatic\bin\Debug\DevExpress.XtraEditors.v15.1.xml
+C:\Users\Victor\Documents\Visual Studio 2015\Projects\Novusmatic\Novusmatic\bin\Debug\DevExpress.XtraGauges.v15.1.Core.xml
+C:\Users\Victor\Documents\Visual Studio 2015\Projects\Novusmatic\Novusmatic\bin\Debug\DevExpress.XtraPrinting.v15.1.xml
+C:\Users\Victor\Documents\Visual Studio 2015\Projects\Novusmatic\Novusmatic\bin\Debug\DevExpress.XtraReports.v15.1.xml
+C:\Users\Victor\Documents\Visual Studio 2015\Projects\Novusmatic\Novusmatic\bin\Debug\DevExpress.XtraReports.v15.1.Extensions.xml
+C:\Users\Victor\Documents\Visual Studio 2015\Projects\Novusmatic\Novusmatic\bin\Debug\DevExpress.XtraBars.v15.1.xml
+C:\Users\Victor\Documents\Visual Studio 2015\Projects\Novusmatic\Novusmatic\bin\Debug\DevExpress.XtraTreeList.v15.1.xml
+C:\Users\Victor\Documents\Visual Studio 2015\Projects\Novusmatic\Novusmatic\bin\Debug\DevExpress.XtraRichEdit.v15.1.xml
+C:\Users\Victor\Documents\Visual Studio 2015\Projects\Novusmatic\Novusmatic\bin\Debug\DevExpress.XtraVerticalGrid.v15.1.xml
+C:\Users\Victor\Documents\Visual Studio 2015\Projects\Novusmatic\Novusmatic\bin\Debug\DevExpress.XtraLayout.v15.1.xml
+C:\Users\Victor\Documents\Visual Studio 2015\Projects\Novusmatic\Novusmatic\bin\Debug\DevExpress.XtraPivotGrid.v15.1.xml
+C:\Users\Victor\Documents\Visual Studio 2015\Projects\Novusmatic\Novusmatic\bin\Debug\DevExpress.XtraNavBar.v15.1.xml
+C:\Users\Victor\Documents\Visual Studio 2015\Projects\Novusmatic\Novusmatic\bin\Debug\DevExpress.DataAccess.v15.1.UI.xml
+C:\Users\Victor\Documents\Visual Studio 2015\Projects\Novusmatic\Novusmatic\bin\Debug\DevExpress.XtraCharts.v15.1.Wizard.xml
+C:\Users\Victor\Documents\Visual Studio 2015\Projects\Novusmatic\Novusmatic\bin\Debug\DevExpress.XtraGrid.v15.1.xml
+C:\Users\Victor\Documents\Visual Studio 2015\Projects\Novusmatic\Novusmatic\bin\Debug\de\DevExpress.Data.v15.1.resources.dll
+C:\Users\Victor\Documents\Visual Studio 2015\Projects\Novusmatic\Novusmatic\bin\Debug\es\DevExpress.Data.v15.1.resources.dll
+C:\Users\Victor\Documents\Visual Studio 2015\Projects\Novusmatic\Novusmatic\bin\Debug\ja\DevExpress.Data.v15.1.resources.dll
+C:\Users\Victor\Documents\Visual Studio 2015\Projects\Novusmatic\Novusmatic\bin\Debug\ru\DevExpress.Data.v15.1.resources.dll
+C:\Users\Victor\Documents\Visual Studio 2015\Projects\Novusmatic\Novusmatic\bin\Debug\de\DevExpress.DataAccess.v15.1.resources.dll
+C:\Users\Victor\Documents\Visual Studio 2015\Projects\Novusmatic\Novusmatic\bin\Debug\es\DevExpress.DataAccess.v15.1.resources.dll
+C:\Users\Victor\Documents\Visual Studio 2015\Projects\Novusmatic\Novusmatic\bin\Debug\ja\DevExpress.DataAccess.v15.1.resources.dll
+C:\Users\Victor\Documents\Visual Studio 2015\Projects\Novusmatic\Novusmatic\bin\Debug\ru\DevExpress.DataAccess.v15.1.resources.dll
+C:\Users\Victor\Documents\Visual Studio 2015\Projects\Novusmatic\Novusmatic\bin\Debug\de\DevExpress.Office.v15.1.Core.resources.dll
+C:\Users\Victor\Documents\Visual Studio 2015\Projects\Novusmatic\Novusmatic\bin\Debug\es\DevExpress.Office.v15.1.Core.resources.dll
+C:\Users\Victor\Documents\Visual Studio 2015\Projects\Novusmatic\Novusmatic\bin\Debug\ja\DevExpress.Office.v15.1.Core.resources.dll
+C:\Users\Victor\Documents\Visual Studio 2015\Projects\Novusmatic\Novusmatic\bin\Debug\ru\DevExpress.Office.v15.1.Core.resources.dll
+C:\Users\Victor\Documents\Visual Studio 2015\Projects\Novusmatic\Novusmatic\bin\Debug\de\DevExpress.PivotGrid.v15.1.Core.resources.dll
+C:\Users\Victor\Documents\Visual Studio 2015\Projects\Novusmatic\Novusmatic\bin\Debug\es\DevExpress.PivotGrid.v15.1.Core.resources.dll
+C:\Users\Victor\Documents\Visual Studio 2015\Projects\Novusmatic\Novusmatic\bin\Debug\ja\DevExpress.PivotGrid.v15.1.Core.resources.dll
+C:\Users\Victor\Documents\Visual Studio 2015\Projects\Novusmatic\Novusmatic\bin\Debug\ru\DevExpress.PivotGrid.v15.1.Core.resources.dll
+C:\Users\Victor\Documents\Visual Studio 2015\Projects\Novusmatic\Novusmatic\bin\Debug\de\DevExpress.Printing.v15.1.Core.resources.dll
+C:\Users\Victor\Documents\Visual Studio 2015\Projects\Novusmatic\Novusmatic\bin\Debug\es\DevExpress.Printing.v15.1.Core.resources.dll
+C:\Users\Victor\Documents\Visual Studio 2015\Projects\Novusmatic\Novusmatic\bin\Debug\ja\DevExpress.Printing.v15.1.Core.resources.dll
+C:\Users\Victor\Documents\Visual Studio 2015\Projects\Novusmatic\Novusmatic\bin\Debug\ru\DevExpress.Printing.v15.1.Core.resources.dll
+C:\Users\Victor\Documents\Visual Studio 2015\Projects\Novusmatic\Novusmatic\bin\Debug\de\DevExpress.RichEdit.v15.1.Core.resources.dll
+C:\Users\Victor\Documents\Visual Studio 2015\Projects\Novusmatic\Novusmatic\bin\Debug\es\DevExpress.RichEdit.v15.1.Core.resources.dll
+C:\Users\Victor\Documents\Visual Studio 2015\Projects\Novusmatic\Novusmatic\bin\Debug\ja\DevExpress.RichEdit.v15.1.Core.resources.dll
+C:\Users\Victor\Documents\Visual Studio 2015\Projects\Novusmatic\Novusmatic\bin\Debug\ru\DevExpress.RichEdit.v15.1.Core.resources.dll
+C:\Users\Victor\Documents\Visual Studio 2015\Projects\Novusmatic\Novusmatic\bin\Debug\de\DevExpress.Sparkline.v15.1.Core.resources.dll
+C:\Users\Victor\Documents\Visual Studio 2015\Projects\Novusmatic\Novusmatic\bin\Debug\es\DevExpress.Sparkline.v15.1.Core.resources.dll
+C:\Users\Victor\Documents\Visual Studio 2015\Projects\Novusmatic\Novusmatic\bin\Debug\ja\DevExpress.Sparkline.v15.1.Core.resources.dll
+C:\Users\Victor\Documents\Visual Studio 2015\Projects\Novusmatic\Novusmatic\bin\Debug\ru\DevExpress.Sparkline.v15.1.Core.resources.dll
+C:\Users\Victor\Documents\Visual Studio 2015\Projects\Novusmatic\Novusmatic\bin\Debug\de\DevExpress.Utils.v15.1.resources.dll
+C:\Users\Victor\Documents\Visual Studio 2015\Projects\Novusmatic\Novusmatic\bin\Debug\es\DevExpress.Utils.v15.1.resources.dll
+C:\Users\Victor\Documents\Visual Studio 2015\Projects\Novusmatic\Novusmatic\bin\Debug\ja\DevExpress.Utils.v15.1.resources.dll
+C:\Users\Victor\Documents\Visual Studio 2015\Projects\Novusmatic\Novusmatic\bin\Debug\ru\DevExpress.Utils.v15.1.resources.dll
+C:\Users\Victor\Documents\Visual Studio 2015\Projects\Novusmatic\Novusmatic\bin\Debug\de\DevExpress.Utils.v15.1.UI.resources.dll
+C:\Users\Victor\Documents\Visual Studio 2015\Projects\Novusmatic\Novusmatic\bin\Debug\es\DevExpress.Utils.v15.1.UI.resources.dll
+C:\Users\Victor\Documents\Visual Studio 2015\Projects\Novusmatic\Novusmatic\bin\Debug\ja\DevExpress.Utils.v15.1.UI.resources.dll
+C:\Users\Victor\Documents\Visual Studio 2015\Projects\Novusmatic\Novusmatic\bin\Debug\ru\DevExpress.Utils.v15.1.UI.resources.dll
+C:\Users\Victor\Documents\Visual Studio 2015\Projects\Novusmatic\Novusmatic\bin\Debug\de\DevExpress.Xpo.v15.1.resources.dll
+C:\Users\Victor\Documents\Visual Studio 2015\Projects\Novusmatic\Novusmatic\bin\Debug\es\DevExpress.Xpo.v15.1.resources.dll
+C:\Users\Victor\Documents\Visual Studio 2015\Projects\Novusmatic\Novusmatic\bin\Debug\ja\DevExpress.Xpo.v15.1.resources.dll
+C:\Users\Victor\Documents\Visual Studio 2015\Projects\Novusmatic\Novusmatic\bin\Debug\ru\DevExpress.Xpo.v15.1.resources.dll
+C:\Users\Victor\Documents\Visual Studio 2015\Projects\Novusmatic\Novusmatic\bin\Debug\de\DevExpress.XtraCharts.v15.1.resources.dll
+C:\Users\Victor\Documents\Visual Studio 2015\Projects\Novusmatic\Novusmatic\bin\Debug\es\DevExpress.XtraCharts.v15.1.resources.dll
+C:\Users\Victor\Documents\Visual Studio 2015\Projects\Novusmatic\Novusmatic\bin\Debug\ja\DevExpress.XtraCharts.v15.1.resources.dll
+C:\Users\Victor\Documents\Visual Studio 2015\Projects\Novusmatic\Novusmatic\bin\Debug\ru\DevExpress.XtraCharts.v15.1.resources.dll
+C:\Users\Victor\Documents\Visual Studio 2015\Projects\Novusmatic\Novusmatic\bin\Debug\de\DevExpress.XtraEditors.v15.1.resources.dll
+C:\Users\Victor\Documents\Visual Studio 2015\Projects\Novusmatic\Novusmatic\bin\Debug\es\DevExpress.XtraEditors.v15.1.resources.dll
+C:\Users\Victor\Documents\Visual Studio 2015\Projects\Novusmatic\Novusmatic\bin\Debug\ja\DevExpress.XtraEditors.v15.1.resources.dll
+C:\Users\Victor\Documents\Visual Studio 2015\Projects\Novusmatic\Novusmatic\bin\Debug\ru\DevExpress.XtraEditors.v15.1.resources.dll
+C:\Users\Victor\Documents\Visual Studio 2015\Projects\Novusmatic\Novusmatic\bin\Debug\de\DevExpress.XtraGauges.v15.1.Core.resources.dll
+C:\Users\Victor\Documents\Visual Studio 2015\Projects\Novusmatic\Novusmatic\bin\Debug\es\DevExpress.XtraGauges.v15.1.Core.resources.dll
+C:\Users\Victor\Documents\Visual Studio 2015\Projects\Novusmatic\Novusmatic\bin\Debug\ja\DevExpress.XtraGauges.v15.1.Core.resources.dll
+C:\Users\Victor\Documents\Visual Studio 2015\Projects\Novusmatic\Novusmatic\bin\Debug\ru\DevExpress.XtraGauges.v15.1.Core.resources.dll
+C:\Users\Victor\Documents\Visual Studio 2015\Projects\Novusmatic\Novusmatic\bin\Debug\de\DevExpress.XtraPrinting.v15.1.resources.dll
+C:\Users\Victor\Documents\Visual Studio 2015\Projects\Novusmatic\Novusmatic\bin\Debug\es\DevExpress.XtraPrinting.v15.1.resources.dll
+C:\Users\Victor\Documents\Visual Studio 2015\Projects\Novusmatic\Novusmatic\bin\Debug\ja\DevExpress.XtraPrinting.v15.1.resources.dll
+C:\Users\Victor\Documents\Visual Studio 2015\Projects\Novusmatic\Novusmatic\bin\Debug\ru\DevExpress.XtraPrinting.v15.1.resources.dll
+C:\Users\Victor\Documents\Visual Studio 2015\Projects\Novusmatic\Novusmatic\bin\Debug\de\DevExpress.XtraReports.v15.1.resources.dll
+C:\Users\Victor\Documents\Visual Studio 2015\Projects\Novusmatic\Novusmatic\bin\Debug\es\DevExpress.XtraReports.v15.1.resources.dll
+C:\Users\Victor\Documents\Visual Studio 2015\Projects\Novusmatic\Novusmatic\bin\Debug\ja\DevExpress.XtraReports.v15.1.resources.dll
+C:\Users\Victor\Documents\Visual Studio 2015\Projects\Novusmatic\Novusmatic\bin\Debug\ru\DevExpress.XtraReports.v15.1.resources.dll
+C:\Users\Victor\Documents\Visual Studio 2015\Projects\Novusmatic\Novusmatic\bin\Debug\de\DevExpress.XtraReports.v15.1.Extensions.resources.dll
+C:\Users\Victor\Documents\Visual Studio 2015\Projects\Novusmatic\Novusmatic\bin\Debug\es\DevExpress.XtraReports.v15.1.Extensions.resources.dll
+C:\Users\Victor\Documents\Visual Studio 2015\Projects\Novusmatic\Novusmatic\bin\Debug\ja\DevExpress.XtraReports.v15.1.Extensions.resources.dll
+C:\Users\Victor\Documents\Visual Studio 2015\Projects\Novusmatic\Novusmatic\bin\Debug\ru\DevExpress.XtraReports.v15.1.Extensions.resources.dll
+C:\Users\Victor\Documents\Visual Studio 2015\Projects\Novusmatic\Novusmatic\bin\Debug\de\DevExpress.XtraBars.v15.1.resources.dll
+C:\Users\Victor\Documents\Visual Studio 2015\Projects\Novusmatic\Novusmatic\bin\Debug\es\DevExpress.XtraBars.v15.1.resources.dll
+C:\Users\Victor\Documents\Visual Studio 2015\Projects\Novusmatic\Novusmatic\bin\Debug\ja\DevExpress.XtraBars.v15.1.resources.dll
+C:\Users\Victor\Documents\Visual Studio 2015\Projects\Novusmatic\Novusmatic\bin\Debug\ru\DevExpress.XtraBars.v15.1.resources.dll
+C:\Users\Victor\Documents\Visual Studio 2015\Projects\Novusmatic\Novusmatic\bin\Debug\de\DevExpress.XtraTreeList.v15.1.resources.dll
+C:\Users\Victor\Documents\Visual Studio 2015\Projects\Novusmatic\Novusmatic\bin\Debug\es\DevExpress.XtraTreeList.v15.1.resources.dll
+C:\Users\Victor\Documents\Visual Studio 2015\Projects\Novusmatic\Novusmatic\bin\Debug\ja\DevExpress.XtraTreeList.v15.1.resources.dll
+C:\Users\Victor\Documents\Visual Studio 2015\Projects\Novusmatic\Novusmatic\bin\Debug\ru\DevExpress.XtraTreeList.v15.1.resources.dll
+C:\Users\Victor\Documents\Visual Studio 2015\Projects\Novusmatic\Novusmatic\bin\Debug\de\DevExpress.XtraRichEdit.v15.1.resources.dll
+C:\Users\Victor\Documents\Visual Studio 2015\Projects\Novusmatic\Novusmatic\bin\Debug\es\DevExpress.XtraRichEdit.v15.1.resources.dll
+C:\Users\Victor\Documents\Visual Studio 2015\Projects\Novusmatic\Novusmatic\bin\Debug\ja\DevExpress.XtraRichEdit.v15.1.resources.dll
+C:\Users\Victor\Documents\Visual Studio 2015\Projects\Novusmatic\Novusmatic\bin\Debug\ru\DevExpress.XtraRichEdit.v15.1.resources.dll
+C:\Users\Victor\Documents\Visual Studio 2015\Projects\Novusmatic\Novusmatic\bin\Debug\de\DevExpress.XtraVerticalGrid.v15.1.resources.dll
+C:\Users\Victor\Documents\Visual Studio 2015\Projects\Novusmatic\Novusmatic\bin\Debug\es\DevExpress.XtraVerticalGrid.v15.1.resources.dll
+C:\Users\Victor\Documents\Visual Studio 2015\Projects\Novusmatic\Novusmatic\bin\Debug\ja\DevExpress.XtraVerticalGrid.v15.1.resources.dll
+C:\Users\Victor\Documents\Visual Studio 2015\Projects\Novusmatic\Novusmatic\bin\Debug\ru\DevExpress.XtraVerticalGrid.v15.1.resources.dll
+C:\Users\Victor\Documents\Visual Studio 2015\Projects\Novusmatic\Novusmatic\bin\Debug\de\DevExpress.XtraLayout.v15.1.resources.dll
+C:\Users\Victor\Documents\Visual Studio 2015\Projects\Novusmatic\Novusmatic\bin\Debug\es\DevExpress.XtraLayout.v15.1.resources.dll
+C:\Users\Victor\Documents\Visual Studio 2015\Projects\Novusmatic\Novusmatic\bin\Debug\ja\DevExpress.XtraLayout.v15.1.resources.dll
+C:\Users\Victor\Documents\Visual Studio 2015\Projects\Novusmatic\Novusmatic\bin\Debug\ru\DevExpress.XtraLayout.v15.1.resources.dll
+C:\Users\Victor\Documents\Visual Studio 2015\Projects\Novusmatic\Novusmatic\bin\Debug\de\DevExpress.XtraPivotGrid.v15.1.resources.dll
+C:\Users\Victor\Documents\Visual Studio 2015\Projects\Novusmatic\Novusmatic\bin\Debug\es\DevExpress.XtraPivotGrid.v15.1.resources.dll
+C:\Users\Victor\Documents\Visual Studio 2015\Projects\Novusmatic\Novusmatic\bin\Debug\ja\DevExpress.XtraPivotGrid.v15.1.resources.dll
+C:\Users\Victor\Documents\Visual Studio 2015\Projects\Novusmatic\Novusmatic\bin\Debug\ru\DevExpress.XtraPivotGrid.v15.1.resources.dll
+C:\Users\Victor\Documents\Visual Studio 2015\Projects\Novusmatic\Novusmatic\bin\Debug\de\DevExpress.XtraNavBar.v15.1.resources.dll
+C:\Users\Victor\Documents\Visual Studio 2015\Projects\Novusmatic\Novusmatic\bin\Debug\es\DevExpress.XtraNavBar.v15.1.resources.dll
+C:\Users\Victor\Documents\Visual Studio 2015\Projects\Novusmatic\Novusmatic\bin\Debug\ja\DevExpress.XtraNavBar.v15.1.resources.dll
+C:\Users\Victor\Documents\Visual Studio 2015\Projects\Novusmatic\Novusmatic\bin\Debug\ru\DevExpress.XtraNavBar.v15.1.resources.dll
+C:\Users\Victor\Documents\Visual Studio 2015\Projects\Novusmatic\Novusmatic\bin\Debug\de\DevExpress.DataAccess.v15.1.UI.resources.dll
+C:\Users\Victor\Documents\Visual Studio 2015\Projects\Novusmatic\Novusmatic\bin\Debug\es\DevExpress.DataAccess.v15.1.UI.resources.dll
+C:\Users\Victor\Documents\Visual Studio 2015\Projects\Novusmatic\Novusmatic\bin\Debug\ja\DevExpress.DataAccess.v15.1.UI.resources.dll
+C:\Users\Victor\Documents\Visual Studio 2015\Projects\Novusmatic\Novusmatic\bin\Debug\ru\DevExpress.DataAccess.v15.1.UI.resources.dll
+C:\Users\Victor\Documents\Visual Studio 2015\Projects\Novusmatic\Novusmatic\bin\Debug\de\DevExpress.XtraCharts.v15.1.Wizard.resources.dll
+C:\Users\Victor\Documents\Visual Studio 2015\Projects\Novusmatic\Novusmatic\bin\Debug\es\DevExpress.XtraCharts.v15.1.Wizard.resources.dll
+C:\Users\Victor\Documents\Visual Studio 2015\Projects\Novusmatic\Novusmatic\bin\Debug\ja\DevExpress.XtraCharts.v15.1.Wizard.resources.dll
+C:\Users\Victor\Documents\Visual Studio 2015\Projects\Novusmatic\Novusmatic\bin\Debug\ru\DevExpress.XtraCharts.v15.1.Wizard.resources.dll
+C:\Users\Victor\Documents\Visual Studio 2015\Projects\Novusmatic\Novusmatic\bin\Debug\de\DevExpress.XtraGrid.v15.1.resources.dll
+C:\Users\Victor\Documents\Visual Studio 2015\Projects\Novusmatic\Novusmatic\bin\Debug\es\DevExpress.XtraGrid.v15.1.resources.dll
+C:\Users\Victor\Documents\Visual Studio 2015\Projects\Novusmatic\Novusmatic\bin\Debug\ja\DevExpress.XtraGrid.v15.1.resources.dll
+C:\Users\Victor\Documents\Visual Studio 2015\Projects\Novusmatic\Novusmatic\bin\Debug\ru\DevExpress.XtraGrid.v15.1.resources.dll
+C:\Users\Victor\Documents\Visual Studio 2015\Projects\Novusmatic\Novusmatic\obj\Debug\Novusmatic.Reportes.XtraReportTodo.resources
+C:\Users\Victor\Documents\Visual Studio 2015\Projects\Novusmatic\Novusmatic\obj\Debug\Novusmatic.exe.licenses
+C:\Users\Victor\documents\visual studio 2015\Projects\Novusmatic\Novusmatic\obj\Debug\Novusmatic.frmProcesando.resources
+C:\Users\Victor\Documents\Visual Studio 2015\Projects\Novusmatic\Novusmatic\obj\Debug\Novusmatic.Reportes.XtraReportLista.resources
+C:\Users\Victor\Documents\Visual Studio 2015\Projects\Novusmatic\Novusmatic\obj\Debug\Novusmatic.csprojResolveAssemblyReference.cache
+C:\Users\Victor\Desktop\Novusmatic\Novusmatic\bin\Debug\Novusmatic.exe.config
+C:\Users\Victor\Desktop\Novusmatic\Novusmatic\bin\Debug\Novusmatic.exe.manifest
+C:\Users\Victor\Desktop\Novusmatic\Novusmatic\bin\Debug\Novusmatic.application
+C:\Users\Victor\Desktop\Novusmatic\Novusmatic\bin\Debug\Novusmatic.exe
+C:\Users\Victor\Desktop\Novusmatic\Novusmatic\bin\Debug\Novusmatic.pdb
+C:\Users\Victor\Desktop\Novusmatic\Novusmatic\bin\Debug\DevExpress.Charts.v18.2.Core.dll
+C:\Users\Victor\Desktop\Novusmatic\Novusmatic\bin\Debug\DevExpress.CodeParser.v18.2.dll
+C:\Users\Victor\Desktop\Novusmatic\Novusmatic\bin\Debug\DevExpress.Data.v18.2.dll
+C:\Users\Victor\Desktop\Novusmatic\Novusmatic\bin\Debug\DevExpress.DataAccess.v18.2.dll
+C:\Users\Victor\Desktop\Novusmatic\Novusmatic\bin\Debug\DevExpress.Office.v18.2.Core.dll
+C:\Users\Victor\Desktop\Novusmatic\Novusmatic\bin\Debug\DevExpress.Pdf.v18.2.Core.dll
+C:\Users\Victor\Desktop\Novusmatic\Novusmatic\bin\Debug\DevExpress.PivotGrid.v18.2.Core.dll
+C:\Users\Victor\Desktop\Novusmatic\Novusmatic\bin\Debug\DevExpress.Printing.v18.2.Core.dll
+C:\Users\Victor\Desktop\Novusmatic\Novusmatic\bin\Debug\DevExpress.RichEdit.v18.2.Core.dll
+C:\Users\Victor\Desktop\Novusmatic\Novusmatic\bin\Debug\DevExpress.RichEdit.v18.2.Export.dll
+C:\Users\Victor\Desktop\Novusmatic\Novusmatic\bin\Debug\DevExpress.Sparkline.v18.2.Core.dll
+C:\Users\Victor\Desktop\Novusmatic\Novusmatic\bin\Debug\DevExpress.Utils.v18.2.dll
+C:\Users\Victor\Desktop\Novusmatic\Novusmatic\bin\Debug\DevExpress.Utils.v18.2.UI.dll
+C:\Users\Victor\Desktop\Novusmatic\Novusmatic\bin\Debug\DevExpress.Xpo.v18.2.dll
+C:\Users\Victor\Desktop\Novusmatic\Novusmatic\bin\Debug\DevExpress.XtraCharts.v18.2.dll
+C:\Users\Victor\Desktop\Novusmatic\Novusmatic\bin\Debug\DevExpress.XtraEditors.v18.2.dll
+C:\Users\Victor\Desktop\Novusmatic\Novusmatic\bin\Debug\DevExpress.XtraGauges.v18.2.Core.dll
+C:\Users\Victor\Desktop\Novusmatic\Novusmatic\bin\Debug\DevExpress.XtraPrinting.v18.2.dll
+C:\Users\Victor\Desktop\Novusmatic\Novusmatic\bin\Debug\DevExpress.XtraReports.v18.2.dll
+C:\Users\Victor\Desktop\Novusmatic\Novusmatic\bin\Debug\DevExpress.XtraReports.v18.2.Extensions.dll
+C:\Users\Victor\Desktop\Novusmatic\Novusmatic\bin\Debug\DevExpress.Images.v18.2.dll
+C:\Users\Victor\Desktop\Novusmatic\Novusmatic\bin\Debug\DevExpress.XtraTreeList.v18.2.dll
+C:\Users\Victor\Desktop\Novusmatic\Novusmatic\bin\Debug\DevExpress.XtraBars.v18.2.dll
+C:\Users\Victor\Desktop\Novusmatic\Novusmatic\bin\Debug\DevExpress.XtraLayout.v18.2.dll
+C:\Users\Victor\Desktop\Novusmatic\Novusmatic\bin\Debug\DevExpress.XtraRichEdit.v18.2.dll
+C:\Users\Victor\Desktop\Novusmatic\Novusmatic\bin\Debug\DevExpress.XtraVerticalGrid.v18.2.dll
+C:\Users\Victor\Desktop\Novusmatic\Novusmatic\bin\Debug\DevExpress.DataAccess.v18.2.UI.dll
+C:\Users\Victor\Desktop\Novusmatic\Novusmatic\bin\Debug\DevExpress.XtraGrid.v18.2.dll
+C:\Users\Victor\Desktop\Novusmatic\Novusmatic\bin\Debug\DevExpress.XtraNavBar.v18.2.dll
+C:\Users\Victor\Desktop\Novusmatic\Novusmatic\bin\Debug\DevExpress.XtraCharts.v18.2.Wizard.dll
+C:\Users\Victor\Desktop\Novusmatic\Novusmatic\bin\Debug\DevExpress.XtraPivotGrid.v18.2.dll
+C:\Users\Victor\Desktop\Novusmatic\Novusmatic\bin\Debug\DevExpress.XtraCharts.v18.2.Extensions.dll
+C:\Users\Victor\Desktop\Novusmatic\Novusmatic\bin\Debug\DevExpress.XtraDiagram.v18.2.dll
+C:\Users\Victor\Desktop\Novusmatic\Novusmatic\bin\Debug\DevExpress.Diagram.v18.2.Core.dll
+C:\Users\Victor\Desktop\Novusmatic\Novusmatic\bin\Debug\DevExpress.Data.v18.2.xml
+C:\Users\Victor\Desktop\Novusmatic\Novusmatic\bin\Debug\DevExpress.DataAccess.v18.2.xml
+C:\Users\Victor\Desktop\Novusmatic\Novusmatic\bin\Debug\DevExpress.Office.v18.2.Core.xml
+C:\Users\Victor\Desktop\Novusmatic\Novusmatic\bin\Debug\DevExpress.PivotGrid.v18.2.Core.xml
+C:\Users\Victor\Desktop\Novusmatic\Novusmatic\bin\Debug\DevExpress.Pdf.v18.2.Core.xml
+C:\Users\Victor\Desktop\Novusmatic\Novusmatic\bin\Debug\DevExpress.Printing.v18.2.Core.xml
+C:\Users\Victor\Desktop\Novusmatic\Novusmatic\bin\Debug\DevExpress.RichEdit.v18.2.Core.xml
+C:\Users\Victor\Desktop\Novusmatic\Novusmatic\bin\Debug\DevExpress.Sparkline.v18.2.Core.xml
+C:\Users\Victor\Desktop\Novusmatic\Novusmatic\bin\Debug\DevExpress.Utils.v18.2.xml
+C:\Users\Victor\Desktop\Novusmatic\Novusmatic\bin\Debug\DevExpress.Utils.v18.2.UI.xml
+C:\Users\Victor\Desktop\Novusmatic\Novusmatic\bin\Debug\DevExpress.Xpo.v18.2.xml
+C:\Users\Victor\Desktop\Novusmatic\Novusmatic\bin\Debug\DevExpress.XtraCharts.v18.2.xml
+C:\Users\Victor\Desktop\Novusmatic\Novusmatic\bin\Debug\DevExpress.XtraEditors.v18.2.xml
+C:\Users\Victor\Desktop\Novusmatic\Novusmatic\bin\Debug\DevExpress.XtraGauges.v18.2.Core.xml
+C:\Users\Victor\Desktop\Novusmatic\Novusmatic\bin\Debug\DevExpress.XtraPrinting.v18.2.xml
+C:\Users\Victor\Desktop\Novusmatic\Novusmatic\bin\Debug\DevExpress.XtraReports.v18.2.xml
+C:\Users\Victor\Desktop\Novusmatic\Novusmatic\bin\Debug\DevExpress.XtraReports.v18.2.Extensions.xml
+C:\Users\Victor\Desktop\Novusmatic\Novusmatic\bin\Debug\DevExpress.XtraTreeList.v18.2.xml
+C:\Users\Victor\Desktop\Novusmatic\Novusmatic\bin\Debug\DevExpress.XtraBars.v18.2.xml
+C:\Users\Victor\Desktop\Novusmatic\Novusmatic\bin\Debug\DevExpress.XtraLayout.v18.2.xml
+C:\Users\Victor\Desktop\Novusmatic\Novusmatic\bin\Debug\DevExpress.XtraRichEdit.v18.2.xml
+C:\Users\Victor\Desktop\Novusmatic\Novusmatic\bin\Debug\DevExpress.XtraVerticalGrid.v18.2.xml
+C:\Users\Victor\Desktop\Novusmatic\Novusmatic\bin\Debug\DevExpress.DataAccess.v18.2.UI.xml
+C:\Users\Victor\Desktop\Novusmatic\Novusmatic\bin\Debug\DevExpress.XtraGrid.v18.2.xml
+C:\Users\Victor\Desktop\Novusmatic\Novusmatic\bin\Debug\DevExpress.XtraNavBar.v18.2.xml
+C:\Users\Victor\Desktop\Novusmatic\Novusmatic\bin\Debug\DevExpress.XtraCharts.v18.2.Wizard.xml
+C:\Users\Victor\Desktop\Novusmatic\Novusmatic\bin\Debug\DevExpress.XtraPivotGrid.v18.2.xml
+C:\Users\Victor\Desktop\Novusmatic\Novusmatic\bin\Debug\DevExpress.XtraDiagram.v18.2.xml
+C:\Users\Victor\Desktop\Novusmatic\Novusmatic\bin\Debug\DevExpress.Diagram.v18.2.Core.xml
+C:\Users\Victor\Desktop\Novusmatic\Novusmatic\bin\Debug\de\DevExpress.Data.v18.2.resources.dll
+C:\Users\Victor\Desktop\Novusmatic\Novusmatic\bin\Debug\es\DevExpress.Data.v18.2.resources.dll
+C:\Users\Victor\Desktop\Novusmatic\Novusmatic\bin\Debug\ja\DevExpress.Data.v18.2.resources.dll
+C:\Users\Victor\Desktop\Novusmatic\Novusmatic\bin\Debug\ru\DevExpress.Data.v18.2.resources.dll
+C:\Users\Victor\Desktop\Novusmatic\Novusmatic\bin\Debug\de\DevExpress.DataAccess.v18.2.resources.dll
+C:\Users\Victor\Desktop\Novusmatic\Novusmatic\bin\Debug\es\DevExpress.DataAccess.v18.2.resources.dll
+C:\Users\Victor\Desktop\Novusmatic\Novusmatic\bin\Debug\ja\DevExpress.DataAccess.v18.2.resources.dll
+C:\Users\Victor\Desktop\Novusmatic\Novusmatic\bin\Debug\ru\DevExpress.DataAccess.v18.2.resources.dll
+C:\Users\Victor\Desktop\Novusmatic\Novusmatic\bin\Debug\de\DevExpress.Office.v18.2.Core.resources.dll
+C:\Users\Victor\Desktop\Novusmatic\Novusmatic\bin\Debug\es\DevExpress.Office.v18.2.Core.resources.dll
+C:\Users\Victor\Desktop\Novusmatic\Novusmatic\bin\Debug\ja\DevExpress.Office.v18.2.Core.resources.dll
+C:\Users\Victor\Desktop\Novusmatic\Novusmatic\bin\Debug\ru\DevExpress.Office.v18.2.Core.resources.dll
+C:\Users\Victor\Desktop\Novusmatic\Novusmatic\bin\Debug\de\DevExpress.PivotGrid.v18.2.Core.resources.dll
+C:\Users\Victor\Desktop\Novusmatic\Novusmatic\bin\Debug\es\DevExpress.PivotGrid.v18.2.Core.resources.dll
+C:\Users\Victor\Desktop\Novusmatic\Novusmatic\bin\Debug\ja\DevExpress.PivotGrid.v18.2.Core.resources.dll
+C:\Users\Victor\Desktop\Novusmatic\Novusmatic\bin\Debug\ru\DevExpress.PivotGrid.v18.2.Core.resources.dll
+C:\Users\Victor\Desktop\Novusmatic\Novusmatic\bin\Debug\de\DevExpress.Pdf.v18.2.Core.resources.dll
+C:\Users\Victor\Desktop\Novusmatic\Novusmatic\bin\Debug\es\DevExpress.Pdf.v18.2.Core.resources.dll
+C:\Users\Victor\Desktop\Novusmatic\Novusmatic\bin\Debug\ja\DevExpress.Pdf.v18.2.Core.resources.dll
+C:\Users\Victor\Desktop\Novusmatic\Novusmatic\bin\Debug\ru\DevExpress.Pdf.v18.2.Core.resources.dll
+C:\Users\Victor\Desktop\Novusmatic\Novusmatic\bin\Debug\de\DevExpress.Printing.v18.2.Core.resources.dll
+C:\Users\Victor\Desktop\Novusmatic\Novusmatic\bin\Debug\es\DevExpress.Printing.v18.2.Core.resources.dll
+C:\Users\Victor\Desktop\Novusmatic\Novusmatic\bin\Debug\ja\DevExpress.Printing.v18.2.Core.resources.dll
+C:\Users\Victor\Desktop\Novusmatic\Novusmatic\bin\Debug\ru\DevExpress.Printing.v18.2.Core.resources.dll
+C:\Users\Victor\Desktop\Novusmatic\Novusmatic\bin\Debug\de\DevExpress.RichEdit.v18.2.Core.resources.dll
+C:\Users\Victor\Desktop\Novusmatic\Novusmatic\bin\Debug\es\DevExpress.RichEdit.v18.2.Core.resources.dll
+C:\Users\Victor\Desktop\Novusmatic\Novusmatic\bin\Debug\ja\DevExpress.RichEdit.v18.2.Core.resources.dll
+C:\Users\Victor\Desktop\Novusmatic\Novusmatic\bin\Debug\ru\DevExpress.RichEdit.v18.2.Core.resources.dll
+C:\Users\Victor\Desktop\Novusmatic\Novusmatic\bin\Debug\de\DevExpress.Sparkline.v18.2.Core.resources.dll
+C:\Users\Victor\Desktop\Novusmatic\Novusmatic\bin\Debug\es\DevExpress.Sparkline.v18.2.Core.resources.dll
+C:\Users\Victor\Desktop\Novusmatic\Novusmatic\bin\Debug\ja\DevExpress.Sparkline.v18.2.Core.resources.dll
+C:\Users\Victor\Desktop\Novusmatic\Novusmatic\bin\Debug\ru\DevExpress.Sparkline.v18.2.Core.resources.dll
+C:\Users\Victor\Desktop\Novusmatic\Novusmatic\bin\Debug\de\DevExpress.Utils.v18.2.resources.dll
+C:\Users\Victor\Desktop\Novusmatic\Novusmatic\bin\Debug\es\DevExpress.Utils.v18.2.resources.dll
+C:\Users\Victor\Desktop\Novusmatic\Novusmatic\bin\Debug\ja\DevExpress.Utils.v18.2.resources.dll
+C:\Users\Victor\Desktop\Novusmatic\Novusmatic\bin\Debug\ru\DevExpress.Utils.v18.2.resources.dll
+C:\Users\Victor\Desktop\Novusmatic\Novusmatic\bin\Debug\de\DevExpress.Utils.v18.2.UI.resources.dll
+C:\Users\Victor\Desktop\Novusmatic\Novusmatic\bin\Debug\es\DevExpress.Utils.v18.2.UI.resources.dll
+C:\Users\Victor\Desktop\Novusmatic\Novusmatic\bin\Debug\ja\DevExpress.Utils.v18.2.UI.resources.dll
+C:\Users\Victor\Desktop\Novusmatic\Novusmatic\bin\Debug\ru\DevExpress.Utils.v18.2.UI.resources.dll
+C:\Users\Victor\Desktop\Novusmatic\Novusmatic\bin\Debug\de\DevExpress.Xpo.v18.2.resources.dll
+C:\Users\Victor\Desktop\Novusmatic\Novusmatic\bin\Debug\es\DevExpress.Xpo.v18.2.resources.dll
+C:\Users\Victor\Desktop\Novusmatic\Novusmatic\bin\Debug\ja\DevExpress.Xpo.v18.2.resources.dll
+C:\Users\Victor\Desktop\Novusmatic\Novusmatic\bin\Debug\ru\DevExpress.Xpo.v18.2.resources.dll
+C:\Users\Victor\Desktop\Novusmatic\Novusmatic\bin\Debug\de\DevExpress.XtraCharts.v18.2.resources.dll
+C:\Users\Victor\Desktop\Novusmatic\Novusmatic\bin\Debug\es\DevExpress.XtraCharts.v18.2.resources.dll
+C:\Users\Victor\Desktop\Novusmatic\Novusmatic\bin\Debug\ja\DevExpress.XtraCharts.v18.2.resources.dll
+C:\Users\Victor\Desktop\Novusmatic\Novusmatic\bin\Debug\ru\DevExpress.XtraCharts.v18.2.resources.dll
+C:\Users\Victor\Desktop\Novusmatic\Novusmatic\bin\Debug\de\DevExpress.XtraEditors.v18.2.resources.dll
+C:\Users\Victor\Desktop\Novusmatic\Novusmatic\bin\Debug\es\DevExpress.XtraEditors.v18.2.resources.dll
+C:\Users\Victor\Desktop\Novusmatic\Novusmatic\bin\Debug\ja\DevExpress.XtraEditors.v18.2.resources.dll
+C:\Users\Victor\Desktop\Novusmatic\Novusmatic\bin\Debug\ru\DevExpress.XtraEditors.v18.2.resources.dll
+C:\Users\Victor\Desktop\Novusmatic\Novusmatic\bin\Debug\de\DevExpress.XtraGauges.v18.2.Core.resources.dll
+C:\Users\Victor\Desktop\Novusmatic\Novusmatic\bin\Debug\es\DevExpress.XtraGauges.v18.2.Core.resources.dll
+C:\Users\Victor\Desktop\Novusmatic\Novusmatic\bin\Debug\ja\DevExpress.XtraGauges.v18.2.Core.resources.dll
+C:\Users\Victor\Desktop\Novusmatic\Novusmatic\bin\Debug\ru\DevExpress.XtraGauges.v18.2.Core.resources.dll
+C:\Users\Victor\Desktop\Novusmatic\Novusmatic\bin\Debug\de\DevExpress.XtraPrinting.v18.2.resources.dll
+C:\Users\Victor\Desktop\Novusmatic\Novusmatic\bin\Debug\es\DevExpress.XtraPrinting.v18.2.resources.dll
+C:\Users\Victor\Desktop\Novusmatic\Novusmatic\bin\Debug\ja\DevExpress.XtraPrinting.v18.2.resources.dll
+C:\Users\Victor\Desktop\Novusmatic\Novusmatic\bin\Debug\ru\DevExpress.XtraPrinting.v18.2.resources.dll
+C:\Users\Victor\Desktop\Novusmatic\Novusmatic\bin\Debug\de\DevExpress.XtraReports.v18.2.resources.dll
+C:\Users\Victor\Desktop\Novusmatic\Novusmatic\bin\Debug\es\DevExpress.XtraReports.v18.2.resources.dll
+C:\Users\Victor\Desktop\Novusmatic\Novusmatic\bin\Debug\ja\DevExpress.XtraReports.v18.2.resources.dll
+C:\Users\Victor\Desktop\Novusmatic\Novusmatic\bin\Debug\ru\DevExpress.XtraReports.v18.2.resources.dll
+C:\Users\Victor\Desktop\Novusmatic\Novusmatic\bin\Debug\de\DevExpress.XtraReports.v18.2.Extensions.resources.dll
+C:\Users\Victor\Desktop\Novusmatic\Novusmatic\bin\Debug\es\DevExpress.XtraReports.v18.2.Extensions.resources.dll
+C:\Users\Victor\Desktop\Novusmatic\Novusmatic\bin\Debug\ja\DevExpress.XtraReports.v18.2.Extensions.resources.dll
+C:\Users\Victor\Desktop\Novusmatic\Novusmatic\bin\Debug\ru\DevExpress.XtraReports.v18.2.Extensions.resources.dll
+C:\Users\Victor\Desktop\Novusmatic\Novusmatic\bin\Debug\de\DevExpress.XtraTreeList.v18.2.resources.dll
+C:\Users\Victor\Desktop\Novusmatic\Novusmatic\bin\Debug\es\DevExpress.XtraTreeList.v18.2.resources.dll
+C:\Users\Victor\Desktop\Novusmatic\Novusmatic\bin\Debug\ja\DevExpress.XtraTreeList.v18.2.resources.dll
+C:\Users\Victor\Desktop\Novusmatic\Novusmatic\bin\Debug\ru\DevExpress.XtraTreeList.v18.2.resources.dll
+C:\Users\Victor\Desktop\Novusmatic\Novusmatic\bin\Debug\de\DevExpress.XtraBars.v18.2.resources.dll
+C:\Users\Victor\Desktop\Novusmatic\Novusmatic\bin\Debug\es\DevExpress.XtraBars.v18.2.resources.dll
+C:\Users\Victor\Desktop\Novusmatic\Novusmatic\bin\Debug\ja\DevExpress.XtraBars.v18.2.resources.dll
+C:\Users\Victor\Desktop\Novusmatic\Novusmatic\bin\Debug\ru\DevExpress.XtraBars.v18.2.resources.dll
+C:\Users\Victor\Desktop\Novusmatic\Novusmatic\bin\Debug\de\DevExpress.XtraLayout.v18.2.resources.dll
+C:\Users\Victor\Desktop\Novusmatic\Novusmatic\bin\Debug\es\DevExpress.XtraLayout.v18.2.resources.dll
+C:\Users\Victor\Desktop\Novusmatic\Novusmatic\bin\Debug\ja\DevExpress.XtraLayout.v18.2.resources.dll
+C:\Users\Victor\Desktop\Novusmatic\Novusmatic\bin\Debug\ru\DevExpress.XtraLayout.v18.2.resources.dll
+C:\Users\Victor\Desktop\Novusmatic\Novusmatic\bin\Debug\de\DevExpress.XtraRichEdit.v18.2.resources.dll
+C:\Users\Victor\Desktop\Novusmatic\Novusmatic\bin\Debug\es\DevExpress.XtraRichEdit.v18.2.resources.dll
+C:\Users\Victor\Desktop\Novusmatic\Novusmatic\bin\Debug\ja\DevExpress.XtraRichEdit.v18.2.resources.dll
+C:\Users\Victor\Desktop\Novusmatic\Novusmatic\bin\Debug\ru\DevExpress.XtraRichEdit.v18.2.resources.dll
+C:\Users\Victor\Desktop\Novusmatic\Novusmatic\bin\Debug\de\DevExpress.XtraVerticalGrid.v18.2.resources.dll
+C:\Users\Victor\Desktop\Novusmatic\Novusmatic\bin\Debug\es\DevExpress.XtraVerticalGrid.v18.2.resources.dll
+C:\Users\Victor\Desktop\Novusmatic\Novusmatic\bin\Debug\ja\DevExpress.XtraVerticalGrid.v18.2.resources.dll
+C:\Users\Victor\Desktop\Novusmatic\Novusmatic\bin\Debug\ru\DevExpress.XtraVerticalGrid.v18.2.resources.dll
+C:\Users\Victor\Desktop\Novusmatic\Novusmatic\bin\Debug\de\DevExpress.DataAccess.v18.2.UI.resources.dll
+C:\Users\Victor\Desktop\Novusmatic\Novusmatic\bin\Debug\es\DevExpress.DataAccess.v18.2.UI.resources.dll
+C:\Users\Victor\Desktop\Novusmatic\Novusmatic\bin\Debug\ja\DevExpress.DataAccess.v18.2.UI.resources.dll
+C:\Users\Victor\Desktop\Novusmatic\Novusmatic\bin\Debug\ru\DevExpress.DataAccess.v18.2.UI.resources.dll
+C:\Users\Victor\Desktop\Novusmatic\Novusmatic\bin\Debug\de\DevExpress.XtraGrid.v18.2.resources.dll
+C:\Users\Victor\Desktop\Novusmatic\Novusmatic\bin\Debug\es\DevExpress.XtraGrid.v18.2.resources.dll
+C:\Users\Victor\Desktop\Novusmatic\Novusmatic\bin\Debug\ja\DevExpress.XtraGrid.v18.2.resources.dll
+C:\Users\Victor\Desktop\Novusmatic\Novusmatic\bin\Debug\ru\DevExpress.XtraGrid.v18.2.resources.dll
+C:\Users\Victor\Desktop\Novusmatic\Novusmatic\bin\Debug\de\DevExpress.XtraNavBar.v18.2.resources.dll
+C:\Users\Victor\Desktop\Novusmatic\Novusmatic\bin\Debug\es\DevExpress.XtraNavBar.v18.2.resources.dll
+C:\Users\Victor\Desktop\Novusmatic\Novusmatic\bin\Debug\ja\DevExpress.XtraNavBar.v18.2.resources.dll
+C:\Users\Victor\Desktop\Novusmatic\Novusmatic\bin\Debug\ru\DevExpress.XtraNavBar.v18.2.resources.dll
+C:\Users\Victor\Desktop\Novusmatic\Novusmatic\bin\Debug\de\DevExpress.XtraCharts.v18.2.Wizard.resources.dll
+C:\Users\Victor\Desktop\Novusmatic\Novusmatic\bin\Debug\es\DevExpress.XtraCharts.v18.2.Wizard.resources.dll
+C:\Users\Victor\Desktop\Novusmatic\Novusmatic\bin\Debug\ja\DevExpress.XtraCharts.v18.2.Wizard.resources.dll
+C:\Users\Victor\Desktop\Novusmatic\Novusmatic\bin\Debug\ru\DevExpress.XtraCharts.v18.2.Wizard.resources.dll
+C:\Users\Victor\Desktop\Novusmatic\Novusmatic\bin\Debug\de\DevExpress.XtraPivotGrid.v18.2.resources.dll
+C:\Users\Victor\Desktop\Novusmatic\Novusmatic\bin\Debug\es\DevExpress.XtraPivotGrid.v18.2.resources.dll
+C:\Users\Victor\Desktop\Novusmatic\Novusmatic\bin\Debug\ja\DevExpress.XtraPivotGrid.v18.2.resources.dll
+C:\Users\Victor\Desktop\Novusmatic\Novusmatic\bin\Debug\ru\DevExpress.XtraPivotGrid.v18.2.resources.dll
+C:\Users\Victor\Desktop\Novusmatic\Novusmatic\bin\Debug\de\DevExpress.Diagram.v18.2.Core.resources.dll
+C:\Users\Victor\Desktop\Novusmatic\Novusmatic\bin\Debug\es\DevExpress.Diagram.v18.2.Core.resources.dll
+C:\Users\Victor\Desktop\Novusmatic\Novusmatic\bin\Debug\ja\DevExpress.Diagram.v18.2.Core.resources.dll
+C:\Users\Victor\Desktop\Novusmatic\Novusmatic\bin\Debug\ru\DevExpress.Diagram.v18.2.Core.resources.dll
+C:\Users\Victor\Desktop\Novusmatic\Novusmatic\obj\Debug\Novusmatic.csprojAssemblyReference.cache
+C:\Users\Victor\Desktop\Novusmatic\Novusmatic\obj\Debug\Novusmatic.frmBuscarMoneda.resources
+C:\Users\Victor\Desktop\Novusmatic\Novusmatic\obj\Debug\Novusmatic.frmCatalogo.resources
+C:\Users\Victor\Desktop\Novusmatic\Novusmatic\obj\Debug\Novusmatic.frmNovusmatic.resources
+C:\Users\Victor\Desktop\Novusmatic\Novusmatic\obj\Debug\Novusmatic.frmProcesando.resources
+C:\Users\Victor\Desktop\Novusmatic\Novusmatic\obj\Debug\Novusmatic.Properties.Resources.resources
+C:\Users\Victor\Desktop\Novusmatic\Novusmatic\obj\Debug\Novusmatic.Reportes.XtraReportLista.resources
+C:\Users\Victor\Desktop\Novusmatic\Novusmatic\obj\Debug\Novusmatic.Reportes.XtraReportTodo.resources
+C:\Users\Victor\Desktop\Novusmatic\Novusmatic\obj\Debug\Novusmatic.csproj.GenerateResource.cache
+C:\Users\Victor\Desktop\Novusmatic\Novusmatic\obj\Debug\Novusmatic.exe.licenses
+C:\Users\Victor\Desktop\Novusmatic\Novusmatic\obj\Debug\Novusmatic.csproj.CoreCompileInputs.cache
+C:\Users\Victor\Desktop\Novusmatic\Novusmatic\obj\Debug\Novusmatic.exe.manifest
+C:\Users\Victor\Desktop\Novusmatic\Novusmatic\obj\Debug\Novusmatic.application
+C:\Users\Victor\Desktop\Novusmatic\Novusmatic\obj\Debug\Novusmatic.csproj.CopyComplete
+C:\Users\Victor\Desktop\Novusmatic\Novusmatic\obj\Debug\Novusmatic.exe
+C:\Users\Victor\Desktop\Novusmatic\Novusmatic\obj\Debug\Novusmatic.pdb
+C:\Users\Victor\source\repos\Novusmatic\Novusmatic\bin\Debug\Novusmatic.exe.config
+C:\Users\Victor\source\repos\Novusmatic\Novusmatic\bin\Debug\Novusmatic.exe.manifest
+C:\Users\Victor\source\repos\Novusmatic\Novusmatic\bin\Debug\Novusmatic.application
+C:\Users\Victor\source\repos\Novusmatic\Novusmatic\bin\Debug\Novusmatic.exe
+C:\Users\Victor\source\repos\Novusmatic\Novusmatic\bin\Debug\Novusmatic.pdb
+C:\Users\Victor\source\repos\Novusmatic\Novusmatic\bin\Debug\DevExpress.Charts.v18.2.Core.dll
+C:\Users\Victor\source\repos\Novusmatic\Novusmatic\bin\Debug\DevExpress.CodeParser.v18.2.dll
+C:\Users\Victor\source\repos\Novusmatic\Novusmatic\bin\Debug\DevExpress.Data.v18.2.dll
+C:\Users\Victor\source\repos\Novusmatic\Novusmatic\bin\Debug\DevExpress.DataAccess.v18.2.dll
+C:\Users\Victor\source\repos\Novusmatic\Novusmatic\bin\Debug\DevExpress.Office.v18.2.Core.dll
+C:\Users\Victor\source\repos\Novusmatic\Novusmatic\bin\Debug\DevExpress.Pdf.v18.2.Core.dll
+C:\Users\Victor\source\repos\Novusmatic\Novusmatic\bin\Debug\DevExpress.PivotGrid.v18.2.Core.dll
+C:\Users\Victor\source\repos\Novusmatic\Novusmatic\bin\Debug\DevExpress.Printing.v18.2.Core.dll
+C:\Users\Victor\source\repos\Novusmatic\Novusmatic\bin\Debug\DevExpress.RichEdit.v18.2.Core.dll
+C:\Users\Victor\source\repos\Novusmatic\Novusmatic\bin\Debug\DevExpress.RichEdit.v18.2.Export.dll
+C:\Users\Victor\source\repos\Novusmatic\Novusmatic\bin\Debug\DevExpress.Sparkline.v18.2.Core.dll
+C:\Users\Victor\source\repos\Novusmatic\Novusmatic\bin\Debug\DevExpress.Utils.v18.2.dll
+C:\Users\Victor\source\repos\Novusmatic\Novusmatic\bin\Debug\DevExpress.Utils.v18.2.UI.dll
+C:\Users\Victor\source\repos\Novusmatic\Novusmatic\bin\Debug\DevExpress.Xpo.v18.2.dll
+C:\Users\Victor\source\repos\Novusmatic\Novusmatic\bin\Debug\DevExpress.XtraCharts.v18.2.dll
+C:\Users\Victor\source\repos\Novusmatic\Novusmatic\bin\Debug\DevExpress.XtraEditors.v18.2.dll
+C:\Users\Victor\source\repos\Novusmatic\Novusmatic\bin\Debug\DevExpress.XtraGauges.v18.2.Core.dll
+C:\Users\Victor\source\repos\Novusmatic\Novusmatic\bin\Debug\DevExpress.XtraPrinting.v18.2.dll
+C:\Users\Victor\source\repos\Novusmatic\Novusmatic\bin\Debug\DevExpress.XtraReports.v18.2.dll
+C:\Users\Victor\source\repos\Novusmatic\Novusmatic\bin\Debug\DevExpress.XtraReports.v18.2.Extensions.dll
+C:\Users\Victor\source\repos\Novusmatic\Novusmatic\bin\Debug\DevExpress.Images.v18.2.dll
+C:\Users\Victor\source\repos\Novusmatic\Novusmatic\bin\Debug\DevExpress.XtraTreeList.v18.2.dll
+C:\Users\Victor\source\repos\Novusmatic\Novusmatic\bin\Debug\DevExpress.XtraBars.v18.2.dll
+C:\Users\Victor\source\repos\Novusmatic\Novusmatic\bin\Debug\DevExpress.XtraLayout.v18.2.dll
+C:\Users\Victor\source\repos\Novusmatic\Novusmatic\bin\Debug\DevExpress.XtraRichEdit.v18.2.dll
+C:\Users\Victor\source\repos\Novusmatic\Novusmatic\bin\Debug\DevExpress.XtraVerticalGrid.v18.2.dll
+C:\Users\Victor\source\repos\Novusmatic\Novusmatic\bin\Debug\DevExpress.DataAccess.v18.2.UI.dll
+C:\Users\Victor\source\repos\Novusmatic\Novusmatic\bin\Debug\DevExpress.XtraGrid.v18.2.dll
+C:\Users\Victor\source\repos\Novusmatic\Novusmatic\bin\Debug\DevExpress.XtraNavBar.v18.2.dll
+C:\Users\Victor\source\repos\Novusmatic\Novusmatic\bin\Debug\DevExpress.XtraCharts.v18.2.Wizard.dll
+C:\Users\Victor\source\repos\Novusmatic\Novusmatic\bin\Debug\DevExpress.XtraPivotGrid.v18.2.dll
+C:\Users\Victor\source\repos\Novusmatic\Novusmatic\bin\Debug\DevExpress.XtraCharts.v18.2.Extensions.dll
+C:\Users\Victor\source\repos\Novusmatic\Novusmatic\bin\Debug\DevExpress.XtraDiagram.v18.2.dll
+C:\Users\Victor\source\repos\Novusmatic\Novusmatic\bin\Debug\DevExpress.Diagram.v18.2.Core.dll
+C:\Users\Victor\source\repos\Novusmatic\Novusmatic\bin\Debug\DevExpress.Data.v18.2.xml
+C:\Users\Victor\source\repos\Novusmatic\Novusmatic\bin\Debug\DevExpress.DataAccess.v18.2.xml
+C:\Users\Victor\source\repos\Novusmatic\Novusmatic\bin\Debug\DevExpress.Office.v18.2.Core.xml
+C:\Users\Victor\source\repos\Novusmatic\Novusmatic\bin\Debug\DevExpress.PivotGrid.v18.2.Core.xml
+C:\Users\Victor\source\repos\Novusmatic\Novusmatic\bin\Debug\DevExpress.Pdf.v18.2.Core.xml
+C:\Users\Victor\source\repos\Novusmatic\Novusmatic\bin\Debug\DevExpress.Printing.v18.2.Core.xml
+C:\Users\Victor\source\repos\Novusmatic\Novusmatic\bin\Debug\DevExpress.RichEdit.v18.2.Core.xml
+C:\Users\Victor\source\repos\Novusmatic\Novusmatic\bin\Debug\DevExpress.Sparkline.v18.2.Core.xml
+C:\Users\Victor\source\repos\Novusmatic\Novusmatic\bin\Debug\DevExpress.Utils.v18.2.xml
+C:\Users\Victor\source\repos\Novusmatic\Novusmatic\bin\Debug\DevExpress.Utils.v18.2.UI.xml
+C:\Users\Victor\source\repos\Novusmatic\Novusmatic\bin\Debug\DevExpress.Xpo.v18.2.xml
+C:\Users\Victor\source\repos\Novusmatic\Novusmatic\bin\Debug\DevExpress.XtraCharts.v18.2.xml
+C:\Users\Victor\source\repos\Novusmatic\Novusmatic\bin\Debug\DevExpress.XtraEditors.v18.2.xml
+C:\Users\Victor\source\repos\Novusmatic\Novusmatic\bin\Debug\DevExpress.XtraGauges.v18.2.Core.xml
+C:\Users\Victor\source\repos\Novusmatic\Novusmatic\bin\Debug\DevExpress.XtraPrinting.v18.2.xml
+C:\Users\Victor\source\repos\Novusmatic\Novusmatic\bin\Debug\DevExpress.XtraReports.v18.2.xml
+C:\Users\Victor\source\repos\Novusmatic\Novusmatic\bin\Debug\DevExpress.XtraReports.v18.2.Extensions.xml
+C:\Users\Victor\source\repos\Novusmatic\Novusmatic\bin\Debug\DevExpress.XtraTreeList.v18.2.xml
+C:\Users\Victor\source\repos\Novusmatic\Novusmatic\bin\Debug\DevExpress.XtraBars.v18.2.xml
+C:\Users\Victor\source\repos\Novusmatic\Novusmatic\bin\Debug\DevExpress.XtraLayout.v18.2.xml
+C:\Users\Victor\source\repos\Novusmatic\Novusmatic\bin\Debug\DevExpress.XtraRichEdit.v18.2.xml
+C:\Users\Victor\source\repos\Novusmatic\Novusmatic\bin\Debug\DevExpress.XtraVerticalGrid.v18.2.xml
+C:\Users\Victor\source\repos\Novusmatic\Novusmatic\bin\Debug\DevExpress.DataAccess.v18.2.UI.xml
+C:\Users\Victor\source\repos\Novusmatic\Novusmatic\bin\Debug\DevExpress.XtraGrid.v18.2.xml
+C:\Users\Victor\source\repos\Novusmatic\Novusmatic\bin\Debug\DevExpress.XtraNavBar.v18.2.xml
+C:\Users\Victor\source\repos\Novusmatic\Novusmatic\bin\Debug\DevExpress.XtraCharts.v18.2.Wizard.xml
+C:\Users\Victor\source\repos\Novusmatic\Novusmatic\bin\Debug\DevExpress.XtraPivotGrid.v18.2.xml
+C:\Users\Victor\source\repos\Novusmatic\Novusmatic\bin\Debug\DevExpress.XtraDiagram.v18.2.xml
+C:\Users\Victor\source\repos\Novusmatic\Novusmatic\bin\Debug\DevExpress.Diagram.v18.2.Core.xml
+C:\Users\Victor\source\repos\Novusmatic\Novusmatic\bin\Debug\de\DevExpress.Data.v18.2.resources.dll
+C:\Users\Victor\source\repos\Novusmatic\Novusmatic\bin\Debug\es\DevExpress.Data.v18.2.resources.dll
+C:\Users\Victor\source\repos\Novusmatic\Novusmatic\bin\Debug\ja\DevExpress.Data.v18.2.resources.dll
+C:\Users\Victor\source\repos\Novusmatic\Novusmatic\bin\Debug\ru\DevExpress.Data.v18.2.resources.dll
+C:\Users\Victor\source\repos\Novusmatic\Novusmatic\bin\Debug\de\DevExpress.DataAccess.v18.2.resources.dll
+C:\Users\Victor\source\repos\Novusmatic\Novusmatic\bin\Debug\es\DevExpress.DataAccess.v18.2.resources.dll
+C:\Users\Victor\source\repos\Novusmatic\Novusmatic\bin\Debug\ja\DevExpress.DataAccess.v18.2.resources.dll
+C:\Users\Victor\source\repos\Novusmatic\Novusmatic\bin\Debug\ru\DevExpress.DataAccess.v18.2.resources.dll
+C:\Users\Victor\source\repos\Novusmatic\Novusmatic\bin\Debug\de\DevExpress.Office.v18.2.Core.resources.dll
+C:\Users\Victor\source\repos\Novusmatic\Novusmatic\bin\Debug\es\DevExpress.Office.v18.2.Core.resources.dll
+C:\Users\Victor\source\repos\Novusmatic\Novusmatic\bin\Debug\ja\DevExpress.Office.v18.2.Core.resources.dll
+C:\Users\Victor\source\repos\Novusmatic\Novusmatic\bin\Debug\ru\DevExpress.Office.v18.2.Core.resources.dll
+C:\Users\Victor\source\repos\Novusmatic\Novusmatic\bin\Debug\de\DevExpress.PivotGrid.v18.2.Core.resources.dll
+C:\Users\Victor\source\repos\Novusmatic\Novusmatic\bin\Debug\es\DevExpress.PivotGrid.v18.2.Core.resources.dll
+C:\Users\Victor\source\repos\Novusmatic\Novusmatic\bin\Debug\ja\DevExpress.PivotGrid.v18.2.Core.resources.dll
+C:\Users\Victor\source\repos\Novusmatic\Novusmatic\bin\Debug\ru\DevExpress.PivotGrid.v18.2.Core.resources.dll
+C:\Users\Victor\source\repos\Novusmatic\Novusmatic\bin\Debug\de\DevExpress.Pdf.v18.2.Core.resources.dll
+C:\Users\Victor\source\repos\Novusmatic\Novusmatic\bin\Debug\es\DevExpress.Pdf.v18.2.Core.resources.dll
+C:\Users\Victor\source\repos\Novusmatic\Novusmatic\bin\Debug\ja\DevExpress.Pdf.v18.2.Core.resources.dll
+C:\Users\Victor\source\repos\Novusmatic\Novusmatic\bin\Debug\ru\DevExpress.Pdf.v18.2.Core.resources.dll
+C:\Users\Victor\source\repos\Novusmatic\Novusmatic\bin\Debug\de\DevExpress.Printing.v18.2.Core.resources.dll
+C:\Users\Victor\source\repos\Novusmatic\Novusmatic\bin\Debug\es\DevExpress.Printing.v18.2.Core.resources.dll
+C:\Users\Victor\source\repos\Novusmatic\Novusmatic\bin\Debug\ja\DevExpress.Printing.v18.2.Core.resources.dll
+C:\Users\Victor\source\repos\Novusmatic\Novusmatic\bin\Debug\ru\DevExpress.Printing.v18.2.Core.resources.dll
+C:\Users\Victor\source\repos\Novusmatic\Novusmatic\bin\Debug\de\DevExpress.RichEdit.v18.2.Core.resources.dll
+C:\Users\Victor\source\repos\Novusmatic\Novusmatic\bin\Debug\es\DevExpress.RichEdit.v18.2.Core.resources.dll
+C:\Users\Victor\source\repos\Novusmatic\Novusmatic\bin\Debug\ja\DevExpress.RichEdit.v18.2.Core.resources.dll
+C:\Users\Victor\source\repos\Novusmatic\Novusmatic\bin\Debug\ru\DevExpress.RichEdit.v18.2.Core.resources.dll
+C:\Users\Victor\source\repos\Novusmatic\Novusmatic\bin\Debug\de\DevExpress.Sparkline.v18.2.Core.resources.dll
+C:\Users\Victor\source\repos\Novusmatic\Novusmatic\bin\Debug\es\DevExpress.Sparkline.v18.2.Core.resources.dll
+C:\Users\Victor\source\repos\Novusmatic\Novusmatic\bin\Debug\ja\DevExpress.Sparkline.v18.2.Core.resources.dll
+C:\Users\Victor\source\repos\Novusmatic\Novusmatic\bin\Debug\ru\DevExpress.Sparkline.v18.2.Core.resources.dll
+C:\Users\Victor\source\repos\Novusmatic\Novusmatic\bin\Debug\de\DevExpress.Utils.v18.2.resources.dll
+C:\Users\Victor\source\repos\Novusmatic\Novusmatic\bin\Debug\es\DevExpress.Utils.v18.2.resources.dll
+C:\Users\Victor\source\repos\Novusmatic\Novusmatic\bin\Debug\ja\DevExpress.Utils.v18.2.resources.dll
+C:\Users\Victor\source\repos\Novusmatic\Novusmatic\bin\Debug\ru\DevExpress.Utils.v18.2.resources.dll
+C:\Users\Victor\source\repos\Novusmatic\Novusmatic\bin\Debug\de\DevExpress.Utils.v18.2.UI.resources.dll
+C:\Users\Victor\source\repos\Novusmatic\Novusmatic\bin\Debug\es\DevExpress.Utils.v18.2.UI.resources.dll
+C:\Users\Victor\source\repos\Novusmatic\Novusmatic\bin\Debug\ja\DevExpress.Utils.v18.2.UI.resources.dll
+C:\Users\Victor\source\repos\Novusmatic\Novusmatic\bin\Debug\ru\DevExpress.Utils.v18.2.UI.resources.dll
+C:\Users\Victor\source\repos\Novusmatic\Novusmatic\bin\Debug\de\DevExpress.Xpo.v18.2.resources.dll
+C:\Users\Victor\source\repos\Novusmatic\Novusmatic\bin\Debug\es\DevExpress.Xpo.v18.2.resources.dll
+C:\Users\Victor\source\repos\Novusmatic\Novusmatic\bin\Debug\ja\DevExpress.Xpo.v18.2.resources.dll
+C:\Users\Victor\source\repos\Novusmatic\Novusmatic\bin\Debug\ru\DevExpress.Xpo.v18.2.resources.dll
+C:\Users\Victor\source\repos\Novusmatic\Novusmatic\bin\Debug\de\DevExpress.XtraCharts.v18.2.resources.dll
+C:\Users\Victor\source\repos\Novusmatic\Novusmatic\bin\Debug\es\DevExpress.XtraCharts.v18.2.resources.dll
+C:\Users\Victor\source\repos\Novusmatic\Novusmatic\bin\Debug\ja\DevExpress.XtraCharts.v18.2.resources.dll
+C:\Users\Victor\source\repos\Novusmatic\Novusmatic\bin\Debug\ru\DevExpress.XtraCharts.v18.2.resources.dll
+C:\Users\Victor\source\repos\Novusmatic\Novusmatic\bin\Debug\de\DevExpress.XtraEditors.v18.2.resources.dll
+C:\Users\Victor\source\repos\Novusmatic\Novusmatic\bin\Debug\es\DevExpress.XtraEditors.v18.2.resources.dll
+C:\Users\Victor\source\repos\Novusmatic\Novusmatic\bin\Debug\ja\DevExpress.XtraEditors.v18.2.resources.dll
+C:\Users\Victor\source\repos\Novusmatic\Novusmatic\bin\Debug\ru\DevExpress.XtraEditors.v18.2.resources.dll
+C:\Users\Victor\source\repos\Novusmatic\Novusmatic\bin\Debug\de\DevExpress.XtraGauges.v18.2.Core.resources.dll
+C:\Users\Victor\source\repos\Novusmatic\Novusmatic\bin\Debug\es\DevExpress.XtraGauges.v18.2.Core.resources.dll
+C:\Users\Victor\source\repos\Novusmatic\Novusmatic\bin\Debug\ja\DevExpress.XtraGauges.v18.2.Core.resources.dll
+C:\Users\Victor\source\repos\Novusmatic\Novusmatic\bin\Debug\ru\DevExpress.XtraGauges.v18.2.Core.resources.dll
+C:\Users\Victor\source\repos\Novusmatic\Novusmatic\bin\Debug\de\DevExpress.XtraPrinting.v18.2.resources.dll
+C:\Users\Victor\source\repos\Novusmatic\Novusmatic\bin\Debug\es\DevExpress.XtraPrinting.v18.2.resources.dll
+C:\Users\Victor\source\repos\Novusmatic\Novusmatic\bin\Debug\ja\DevExpress.XtraPrinting.v18.2.resources.dll
+C:\Users\Victor\source\repos\Novusmatic\Novusmatic\bin\Debug\ru\DevExpress.XtraPrinting.v18.2.resources.dll
+C:\Users\Victor\source\repos\Novusmatic\Novusmatic\bin\Debug\de\DevExpress.XtraReports.v18.2.resources.dll
+C:\Users\Victor\source\repos\Novusmatic\Novusmatic\bin\Debug\es\DevExpress.XtraReports.v18.2.resources.dll
+C:\Users\Victor\source\repos\Novusmatic\Novusmatic\bin\Debug\ja\DevExpress.XtraReports.v18.2.resources.dll
+C:\Users\Victor\source\repos\Novusmatic\Novusmatic\bin\Debug\ru\DevExpress.XtraReports.v18.2.resources.dll
+C:\Users\Victor\source\repos\Novusmatic\Novusmatic\bin\Debug\de\DevExpress.XtraReports.v18.2.Extensions.resources.dll
+C:\Users\Victor\source\repos\Novusmatic\Novusmatic\bin\Debug\es\DevExpress.XtraReports.v18.2.Extensions.resources.dll
+C:\Users\Victor\source\repos\Novusmatic\Novusmatic\bin\Debug\ja\DevExpress.XtraReports.v18.2.Extensions.resources.dll
+C:\Users\Victor\source\repos\Novusmatic\Novusmatic\bin\Debug\ru\DevExpress.XtraReports.v18.2.Extensions.resources.dll
+C:\Users\Victor\source\repos\Novusmatic\Novusmatic\bin\Debug\de\DevExpress.XtraTreeList.v18.2.resources.dll
+C:\Users\Victor\source\repos\Novusmatic\Novusmatic\bin\Debug\es\DevExpress.XtraTreeList.v18.2.resources.dll
+C:\Users\Victor\source\repos\Novusmatic\Novusmatic\bin\Debug\ja\DevExpress.XtraTreeList.v18.2.resources.dll
+C:\Users\Victor\source\repos\Novusmatic\Novusmatic\bin\Debug\ru\DevExpress.XtraTreeList.v18.2.resources.dll
+C:\Users\Victor\source\repos\Novusmatic\Novusmatic\bin\Debug\de\DevExpress.XtraBars.v18.2.resources.dll
+C:\Users\Victor\source\repos\Novusmatic\Novusmatic\bin\Debug\es\DevExpress.XtraBars.v18.2.resources.dll
+C:\Users\Victor\source\repos\Novusmatic\Novusmatic\bin\Debug\ja\DevExpress.XtraBars.v18.2.resources.dll
+C:\Users\Victor\source\repos\Novusmatic\Novusmatic\bin\Debug\ru\DevExpress.XtraBars.v18.2.resources.dll
+C:\Users\Victor\source\repos\Novusmatic\Novusmatic\bin\Debug\de\DevExpress.XtraLayout.v18.2.resources.dll
+C:\Users\Victor\source\repos\Novusmatic\Novusmatic\bin\Debug\es\DevExpress.XtraLayout.v18.2.resources.dll
+C:\Users\Victor\source\repos\Novusmatic\Novusmatic\bin\Debug\ja\DevExpress.XtraLayout.v18.2.resources.dll
+C:\Users\Victor\source\repos\Novusmatic\Novusmatic\bin\Debug\ru\DevExpress.XtraLayout.v18.2.resources.dll
+C:\Users\Victor\source\repos\Novusmatic\Novusmatic\bin\Debug\de\DevExpress.XtraRichEdit.v18.2.resources.dll
+C:\Users\Victor\source\repos\Novusmatic\Novusmatic\bin\Debug\es\DevExpress.XtraRichEdit.v18.2.resources.dll
+C:\Users\Victor\source\repos\Novusmatic\Novusmatic\bin\Debug\ja\DevExpress.XtraRichEdit.v18.2.resources.dll
+C:\Users\Victor\source\repos\Novusmatic\Novusmatic\bin\Debug\ru\DevExpress.XtraRichEdit.v18.2.resources.dll
+C:\Users\Victor\source\repos\Novusmatic\Novusmatic\bin\Debug\de\DevExpress.XtraVerticalGrid.v18.2.resources.dll
+C:\Users\Victor\source\repos\Novusmatic\Novusmatic\bin\Debug\es\DevExpress.XtraVerticalGrid.v18.2.resources.dll
+C:\Users\Victor\source\repos\Novusmatic\Novusmatic\bin\Debug\ja\DevExpress.XtraVerticalGrid.v18.2.resources.dll
+C:\Users\Victor\source\repos\Novusmatic\Novusmatic\bin\Debug\ru\DevExpress.XtraVerticalGrid.v18.2.resources.dll
+C:\Users\Victor\source\repos\Novusmatic\Novusmatic\bin\Debug\de\DevExpress.DataAccess.v18.2.UI.resources.dll
+C:\Users\Victor\source\repos\Novusmatic\Novusmatic\bin\Debug\es\DevExpress.DataAccess.v18.2.UI.resources.dll
+C:\Users\Victor\source\repos\Novusmatic\Novusmatic\bin\Debug\ja\DevExpress.DataAccess.v18.2.UI.resources.dll
+C:\Users\Victor\source\repos\Novusmatic\Novusmatic\bin\Debug\ru\DevExpress.DataAccess.v18.2.UI.resources.dll
+C:\Users\Victor\source\repos\Novusmatic\Novusmatic\bin\Debug\de\DevExpress.XtraGrid.v18.2.resources.dll
+C:\Users\Victor\source\repos\Novusmatic\Novusmatic\bin\Debug\es\DevExpress.XtraGrid.v18.2.resources.dll
+C:\Users\Victor\source\repos\Novusmatic\Novusmatic\bin\Debug\ja\DevExpress.XtraGrid.v18.2.resources.dll
+C:\Users\Victor\source\repos\Novusmatic\Novusmatic\bin\Debug\ru\DevExpress.XtraGrid.v18.2.resources.dll
+C:\Users\Victor\source\repos\Novusmatic\Novusmatic\bin\Debug\de\DevExpress.XtraNavBar.v18.2.resources.dll
+C:\Users\Victor\source\repos\Novusmatic\Novusmatic\bin\Debug\es\DevExpress.XtraNavBar.v18.2.resources.dll
+C:\Users\Victor\source\repos\Novusmatic\Novusmatic\bin\Debug\ja\DevExpress.XtraNavBar.v18.2.resources.dll
+C:\Users\Victor\source\repos\Novusmatic\Novusmatic\bin\Debug\ru\DevExpress.XtraNavBar.v18.2.resources.dll
+C:\Users\Victor\source\repos\Novusmatic\Novusmatic\bin\Debug\de\DevExpress.XtraCharts.v18.2.Wizard.resources.dll
+C:\Users\Victor\source\repos\Novusmatic\Novusmatic\bin\Debug\es\DevExpress.XtraCharts.v18.2.Wizard.resources.dll
+C:\Users\Victor\source\repos\Novusmatic\Novusmatic\bin\Debug\ja\DevExpress.XtraCharts.v18.2.Wizard.resources.dll
+C:\Users\Victor\source\repos\Novusmatic\Novusmatic\bin\Debug\ru\DevExpress.XtraCharts.v18.2.Wizard.resources.dll
+C:\Users\Victor\source\repos\Novusmatic\Novusmatic\bin\Debug\de\DevExpress.XtraPivotGrid.v18.2.resources.dll
+C:\Users\Victor\source\repos\Novusmatic\Novusmatic\bin\Debug\es\DevExpress.XtraPivotGrid.v18.2.resources.dll
+C:\Users\Victor\source\repos\Novusmatic\Novusmatic\bin\Debug\ja\DevExpress.XtraPivotGrid.v18.2.resources.dll
+C:\Users\Victor\source\repos\Novusmatic\Novusmatic\bin\Debug\ru\DevExpress.XtraPivotGrid.v18.2.resources.dll
+C:\Users\Victor\source\repos\Novusmatic\Novusmatic\bin\Debug\de\DevExpress.Diagram.v18.2.Core.resources.dll
+C:\Users\Victor\source\repos\Novusmatic\Novusmatic\bin\Debug\es\DevExpress.Diagram.v18.2.Core.resources.dll
+C:\Users\Victor\source\repos\Novusmatic\Novusmatic\bin\Debug\ja\DevExpress.Diagram.v18.2.Core.resources.dll
+C:\Users\Victor\source\repos\Novusmatic\Novusmatic\bin\Debug\ru\DevExpress.Diagram.v18.2.Core.resources.dll
+C:\Users\Victor\source\repos\Novusmatic\Novusmatic\obj\Debug\Novusmatic.csprojAssemblyReference.cache
+C:\Users\Victor\source\repos\Novusmatic\Novusmatic\obj\Debug\Novusmatic.frmBuscarMoneda.resources
+C:\Users\Victor\source\repos\Novusmatic\Novusmatic\obj\Debug\Novusmatic.frmCatalogo.resources
+C:\Users\Victor\source\repos\Novusmatic\Novusmatic\obj\Debug\Novusmatic.frmNovusmatic.resources
+C:\Users\Victor\source\repos\Novusmatic\Novusmatic\obj\Debug\Novusmatic.frmProcesando.resources
+C:\Users\Victor\source\repos\Novusmatic\Novusmatic\obj\Debug\Novusmatic.Properties.Resources.resources
+C:\Users\Victor\source\repos\Novusmatic\Novusmatic\obj\Debug\Novusmatic.Reportes.XtraReportLista.resources
+C:\Users\Victor\source\repos\Novusmatic\Novusmatic\obj\Debug\Novusmatic.Reportes.XtraReportTodo.resources
+C:\Users\Victor\source\repos\Novusmatic\Novusmatic\obj\Debug\Novusmatic.csproj.GenerateResource.cache
+C:\Users\Victor\source\repos\Novusmatic\Novusmatic\obj\Debug\Novusmatic.exe.licenses
+C:\Users\Victor\source\repos\Novusmatic\Novusmatic\obj\Debug\Novusmatic.csproj.CoreCompileInputs.cache
+C:\Users\Victor\source\repos\Novusmatic\Novusmatic\obj\Debug\Novusmatic.exe.manifest
+C:\Users\Victor\source\repos\Novusmatic\Novusmatic\obj\Debug\Novusmatic.application
+C:\Users\Victor\source\repos\Novusmatic\Novusmatic\obj\Debug\Novusmatic.csproj.CopyComplete
+C:\Users\Victor\source\repos\Novusmatic\Novusmatic\obj\Debug\Novusmatic.exe
+C:\Users\Victor\source\repos\Novusmatic\Novusmatic\obj\Debug\Novusmatic.pdb
+D:\00 S O U R C E\Novusmatic\Novusmatic\bin\Debug\Novusmatic.exe.config
+D:\00 S O U R C E\Novusmatic\Novusmatic\bin\Debug\Novusmatic.exe.manifest
+D:\00 S O U R C E\Novusmatic\Novusmatic\bin\Debug\Novusmatic.application
+D:\00 S O U R C E\Novusmatic\Novusmatic\bin\Debug\Novusmatic.exe
+D:\00 S O U R C E\Novusmatic\Novusmatic\bin\Debug\Novusmatic.pdb
+D:\00 S O U R C E\Novusmatic\Novusmatic\bin\Debug\DevExpress.Images.v18.2.dll
+D:\00 S O U R C E\Novusmatic\Novusmatic\bin\Debug\DevExpress.XtraTreeList.v18.2.dll
+D:\00 S O U R C E\Novusmatic\Novusmatic\bin\Debug\DevExpress.XtraBars.v18.2.dll
+D:\00 S O U R C E\Novusmatic\Novusmatic\bin\Debug\DevExpress.XtraLayout.v18.2.dll
+D:\00 S O U R C E\Novusmatic\Novusmatic\bin\Debug\DevExpress.XtraRichEdit.v18.2.dll
+D:\00 S O U R C E\Novusmatic\Novusmatic\bin\Debug\DevExpress.XtraVerticalGrid.v18.2.dll
+D:\00 S O U R C E\Novusmatic\Novusmatic\bin\Debug\DevExpress.DataAccess.v18.2.UI.dll
+D:\00 S O U R C E\Novusmatic\Novusmatic\bin\Debug\DevExpress.XtraGrid.v18.2.dll
+D:\00 S O U R C E\Novusmatic\Novusmatic\bin\Debug\DevExpress.XtraNavBar.v18.2.dll
+D:\00 S O U R C E\Novusmatic\Novusmatic\bin\Debug\DevExpress.XtraCharts.v18.2.Wizard.dll
+D:\00 S O U R C E\Novusmatic\Novusmatic\bin\Debug\DevExpress.XtraPivotGrid.v18.2.dll
+D:\00 S O U R C E\Novusmatic\Novusmatic\bin\Debug\DevExpress.XtraCharts.v18.2.Extensions.dll
+D:\00 S O U R C E\Novusmatic\Novusmatic\bin\Debug\DevExpress.XtraDiagram.v18.2.dll
+D:\00 S O U R C E\Novusmatic\Novusmatic\bin\Debug\DevExpress.Diagram.v18.2.Core.dll
+D:\00 S O U R C E\Novusmatic\Novusmatic\bin\Debug\DevExpress.Data.v18.2.xml
+D:\00 S O U R C E\Novusmatic\Novusmatic\bin\Debug\DevExpress.DataAccess.v18.2.xml
+D:\00 S O U R C E\Novusmatic\Novusmatic\bin\Debug\DevExpress.Office.v18.2.Core.xml
+D:\00 S O U R C E\Novusmatic\Novusmatic\bin\Debug\DevExpress.PivotGrid.v18.2.Core.xml
+D:\00 S O U R C E\Novusmatic\Novusmatic\bin\Debug\DevExpress.Pdf.v18.2.Core.xml
+D:\00 S O U R C E\Novusmatic\Novusmatic\bin\Debug\DevExpress.Printing.v18.2.Core.xml
+D:\00 S O U R C E\Novusmatic\Novusmatic\bin\Debug\DevExpress.RichEdit.v18.2.Core.xml
+D:\00 S O U R C E\Novusmatic\Novusmatic\bin\Debug\DevExpress.Sparkline.v18.2.Core.xml
+D:\00 S O U R C E\Novusmatic\Novusmatic\bin\Debug\DevExpress.Utils.v18.2.xml
+D:\00 S O U R C E\Novusmatic\Novusmatic\bin\Debug\DevExpress.Utils.v18.2.UI.xml
+D:\00 S O U R C E\Novusmatic\Novusmatic\bin\Debug\DevExpress.Xpo.v18.2.xml
+D:\00 S O U R C E\Novusmatic\Novusmatic\bin\Debug\DevExpress.XtraCharts.v18.2.xml
+D:\00 S O U R C E\Novusmatic\Novusmatic\bin\Debug\DevExpress.XtraEditors.v18.2.xml
+D:\00 S O U R C E\Novusmatic\Novusmatic\bin\Debug\DevExpress.XtraGauges.v18.2.Core.xml
+D:\00 S O U R C E\Novusmatic\Novusmatic\bin\Debug\DevExpress.XtraPrinting.v18.2.xml
+D:\00 S O U R C E\Novusmatic\Novusmatic\bin\Debug\DevExpress.XtraReports.v18.2.xml
+D:\00 S O U R C E\Novusmatic\Novusmatic\bin\Debug\DevExpress.XtraReports.v18.2.Extensions.xml
+D:\00 S O U R C E\Novusmatic\Novusmatic\bin\Debug\DevExpress.XtraTreeList.v18.2.xml
+D:\00 S O U R C E\Novusmatic\Novusmatic\bin\Debug\DevExpress.XtraBars.v18.2.xml
+D:\00 S O U R C E\Novusmatic\Novusmatic\bin\Debug\DevExpress.XtraLayout.v18.2.xml
+D:\00 S O U R C E\Novusmatic\Novusmatic\bin\Debug\DevExpress.XtraRichEdit.v18.2.xml
+D:\00 S O U R C E\Novusmatic\Novusmatic\bin\Debug\DevExpress.XtraVerticalGrid.v18.2.xml
+D:\00 S O U R C E\Novusmatic\Novusmatic\bin\Debug\DevExpress.DataAccess.v18.2.UI.xml
+D:\00 S O U R C E\Novusmatic\Novusmatic\bin\Debug\DevExpress.XtraGrid.v18.2.xml
+D:\00 S O U R C E\Novusmatic\Novusmatic\bin\Debug\DevExpress.XtraNavBar.v18.2.xml
+D:\00 S O U R C E\Novusmatic\Novusmatic\bin\Debug\DevExpress.XtraCharts.v18.2.Wizard.xml
+D:\00 S O U R C E\Novusmatic\Novusmatic\bin\Debug\DevExpress.XtraPivotGrid.v18.2.xml
+D:\00 S O U R C E\Novusmatic\Novusmatic\bin\Debug\DevExpress.XtraDiagram.v18.2.xml
+D:\00 S O U R C E\Novusmatic\Novusmatic\bin\Debug\DevExpress.Diagram.v18.2.Core.xml
+D:\00 S O U R C E\Novusmatic\Novusmatic\bin\Debug\de\DevExpress.Data.v18.2.resources.dll
+D:\00 S O U R C E\Novusmatic\Novusmatic\bin\Debug\es\DevExpress.Data.v18.2.resources.dll
+D:\00 S O U R C E\Novusmatic\Novusmatic\bin\Debug\ja\DevExpress.Data.v18.2.resources.dll
+D:\00 S O U R C E\Novusmatic\Novusmatic\bin\Debug\ru\DevExpress.Data.v18.2.resources.dll
+D:\00 S O U R C E\Novusmatic\Novusmatic\bin\Debug\de\DevExpress.DataAccess.v18.2.resources.dll
+D:\00 S O U R C E\Novusmatic\Novusmatic\bin\Debug\es\DevExpress.DataAccess.v18.2.resources.dll
+D:\00 S O U R C E\Novusmatic\Novusmatic\bin\Debug\ja\DevExpress.DataAccess.v18.2.resources.dll
+D:\00 S O U R C E\Novusmatic\Novusmatic\bin\Debug\ru\DevExpress.DataAccess.v18.2.resources.dll
+D:\00 S O U R C E\Novusmatic\Novusmatic\bin\Debug\de\DevExpress.Office.v18.2.Core.resources.dll
+D:\00 S O U R C E\Novusmatic\Novusmatic\bin\Debug\es\DevExpress.Office.v18.2.Core.resources.dll
+D:\00 S O U R C E\Novusmatic\Novusmatic\bin\Debug\ja\DevExpress.Office.v18.2.Core.resources.dll
+D:\00 S O U R C E\Novusmatic\Novusmatic\bin\Debug\ru\DevExpress.Office.v18.2.Core.resources.dll
+D:\00 S O U R C E\Novusmatic\Novusmatic\bin\Debug\de\DevExpress.PivotGrid.v18.2.Core.resources.dll
+D:\00 S O U R C E\Novusmatic\Novusmatic\bin\Debug\es\DevExpress.PivotGrid.v18.2.Core.resources.dll
+D:\00 S O U R C E\Novusmatic\Novusmatic\bin\Debug\ja\DevExpress.PivotGrid.v18.2.Core.resources.dll
+D:\00 S O U R C E\Novusmatic\Novusmatic\bin\Debug\ru\DevExpress.PivotGrid.v18.2.Core.resources.dll
+D:\00 S O U R C E\Novusmatic\Novusmatic\bin\Debug\de\DevExpress.Pdf.v18.2.Core.resources.dll
+D:\00 S O U R C E\Novusmatic\Novusmatic\bin\Debug\es\DevExpress.Pdf.v18.2.Core.resources.dll
+D:\00 S O U R C E\Novusmatic\Novusmatic\bin\Debug\ja\DevExpress.Pdf.v18.2.Core.resources.dll
+D:\00 S O U R C E\Novusmatic\Novusmatic\bin\Debug\ru\DevExpress.Pdf.v18.2.Core.resources.dll
+D:\00 S O U R C E\Novusmatic\Novusmatic\bin\Debug\de\DevExpress.Printing.v18.2.Core.resources.dll
+D:\00 S O U R C E\Novusmatic\Novusmatic\bin\Debug\es\DevExpress.Printing.v18.2.Core.resources.dll
+D:\00 S O U R C E\Novusmatic\Novusmatic\bin\Debug\ja\DevExpress.Printing.v18.2.Core.resources.dll
+D:\00 S O U R C E\Novusmatic\Novusmatic\bin\Debug\ru\DevExpress.Printing.v18.2.Core.resources.dll
+D:\00 S O U R C E\Novusmatic\Novusmatic\bin\Debug\de\DevExpress.RichEdit.v18.2.Core.resources.dll
+D:\00 S O U R C E\Novusmatic\Novusmatic\bin\Debug\es\DevExpress.RichEdit.v18.2.Core.resources.dll
+D:\00 S O U R C E\Novusmatic\Novusmatic\bin\Debug\ja\DevExpress.RichEdit.v18.2.Core.resources.dll
+D:\00 S O U R C E\Novusmatic\Novusmatic\bin\Debug\ru\DevExpress.RichEdit.v18.2.Core.resources.dll
+D:\00 S O U R C E\Novusmatic\Novusmatic\bin\Debug\de\DevExpress.Sparkline.v18.2.Core.resources.dll
+D:\00 S O U R C E\Novusmatic\Novusmatic\bin\Debug\es\DevExpress.Sparkline.v18.2.Core.resources.dll
+D:\00 S O U R C E\Novusmatic\Novusmatic\bin\Debug\ja\DevExpress.Sparkline.v18.2.Core.resources.dll
+D:\00 S O U R C E\Novusmatic\Novusmatic\bin\Debug\ru\DevExpress.Sparkline.v18.2.Core.resources.dll
+D:\00 S O U R C E\Novusmatic\Novusmatic\bin\Debug\de\DevExpress.Utils.v18.2.resources.dll
+D:\00 S O U R C E\Novusmatic\Novusmatic\bin\Debug\es\DevExpress.Utils.v18.2.resources.dll
+D:\00 S O U R C E\Novusmatic\Novusmatic\bin\Debug\ja\DevExpress.Utils.v18.2.resources.dll
+D:\00 S O U R C E\Novusmatic\Novusmatic\bin\Debug\ru\DevExpress.Utils.v18.2.resources.dll
+D:\00 S O U R C E\Novusmatic\Novusmatic\bin\Debug\de\DevExpress.Utils.v18.2.UI.resources.dll
+D:\00 S O U R C E\Novusmatic\Novusmatic\bin\Debug\es\DevExpress.Utils.v18.2.UI.resources.dll
+D:\00 S O U R C E\Novusmatic\Novusmatic\bin\Debug\ja\DevExpress.Utils.v18.2.UI.resources.dll
+D:\00 S O U R C E\Novusmatic\Novusmatic\bin\Debug\ru\DevExpress.Utils.v18.2.UI.resources.dll
+D:\00 S O U R C E\Novusmatic\Novusmatic\bin\Debug\de\DevExpress.Xpo.v18.2.resources.dll
+D:\00 S O U R C E\Novusmatic\Novusmatic\bin\Debug\es\DevExpress.Xpo.v18.2.resources.dll
+D:\00 S O U R C E\Novusmatic\Novusmatic\bin\Debug\ja\DevExpress.Xpo.v18.2.resources.dll
+D:\00 S O U R C E\Novusmatic\Novusmatic\bin\Debug\ru\DevExpress.Xpo.v18.2.resources.dll
+D:\00 S O U R C E\Novusmatic\Novusmatic\bin\Debug\de\DevExpress.XtraCharts.v18.2.resources.dll
+D:\00 S O U R C E\Novusmatic\Novusmatic\bin\Debug\es\DevExpress.XtraCharts.v18.2.resources.dll
+D:\00 S O U R C E\Novusmatic\Novusmatic\bin\Debug\ja\DevExpress.XtraCharts.v18.2.resources.dll
+D:\00 S O U R C E\Novusmatic\Novusmatic\bin\Debug\ru\DevExpress.XtraCharts.v18.2.resources.dll
+D:\00 S O U R C E\Novusmatic\Novusmatic\bin\Debug\de\DevExpress.XtraEditors.v18.2.resources.dll
+D:\00 S O U R C E\Novusmatic\Novusmatic\bin\Debug\es\DevExpress.XtraEditors.v18.2.resources.dll
+D:\00 S O U R C E\Novusmatic\Novusmatic\bin\Debug\ja\DevExpress.XtraEditors.v18.2.resources.dll
+D:\00 S O U R C E\Novusmatic\Novusmatic\bin\Debug\ru\DevExpress.XtraEditors.v18.2.resources.dll
+D:\00 S O U R C E\Novusmatic\Novusmatic\bin\Debug\de\DevExpress.XtraGauges.v18.2.Core.resources.dll
+D:\00 S O U R C E\Novusmatic\Novusmatic\bin\Debug\es\DevExpress.XtraGauges.v18.2.Core.resources.dll
+D:\00 S O U R C E\Novusmatic\Novusmatic\bin\Debug\ja\DevExpress.XtraGauges.v18.2.Core.resources.dll
+D:\00 S O U R C E\Novusmatic\Novusmatic\bin\Debug\ru\DevExpress.XtraGauges.v18.2.Core.resources.dll
+D:\00 S O U R C E\Novusmatic\Novusmatic\bin\Debug\de\DevExpress.XtraPrinting.v18.2.resources.dll
+D:\00 S O U R C E\Novusmatic\Novusmatic\bin\Debug\es\DevExpress.XtraPrinting.v18.2.resources.dll
+D:\00 S O U R C E\Novusmatic\Novusmatic\bin\Debug\ja\DevExpress.XtraPrinting.v18.2.resources.dll
+D:\00 S O U R C E\Novusmatic\Novusmatic\bin\Debug\ru\DevExpress.XtraPrinting.v18.2.resources.dll
+D:\00 S O U R C E\Novusmatic\Novusmatic\bin\Debug\de\DevExpress.XtraReports.v18.2.resources.dll
+D:\00 S O U R C E\Novusmatic\Novusmatic\bin\Debug\es\DevExpress.XtraReports.v18.2.resources.dll
+D:\00 S O U R C E\Novusmatic\Novusmatic\bin\Debug\ja\DevExpress.XtraReports.v18.2.resources.dll
+D:\00 S O U R C E\Novusmatic\Novusmatic\bin\Debug\ru\DevExpress.XtraReports.v18.2.resources.dll
+D:\00 S O U R C E\Novusmatic\Novusmatic\bin\Debug\de\DevExpress.XtraReports.v18.2.Extensions.resources.dll
+D:\00 S O U R C E\Novusmatic\Novusmatic\bin\Debug\es\DevExpress.XtraReports.v18.2.Extensions.resources.dll
+D:\00 S O U R C E\Novusmatic\Novusmatic\bin\Debug\ja\DevExpress.XtraReports.v18.2.Extensions.resources.dll
+D:\00 S O U R C E\Novusmatic\Novusmatic\bin\Debug\ru\DevExpress.XtraReports.v18.2.Extensions.resources.dll
+D:\00 S O U R C E\Novusmatic\Novusmatic\bin\Debug\de\DevExpress.XtraTreeList.v18.2.resources.dll
+D:\00 S O U R C E\Novusmatic\Novusmatic\bin\Debug\es\DevExpress.XtraTreeList.v18.2.resources.dll
+D:\00 S O U R C E\Novusmatic\Novusmatic\bin\Debug\ja\DevExpress.XtraTreeList.v18.2.resources.dll
+D:\00 S O U R C E\Novusmatic\Novusmatic\bin\Debug\ru\DevExpress.XtraTreeList.v18.2.resources.dll
+D:\00 S O U R C E\Novusmatic\Novusmatic\bin\Debug\de\DevExpress.XtraBars.v18.2.resources.dll
+D:\00 S O U R C E\Novusmatic\Novusmatic\bin\Debug\es\DevExpress.XtraBars.v18.2.resources.dll
+D:\00 S O U R C E\Novusmatic\Novusmatic\bin\Debug\ja\DevExpress.XtraBars.v18.2.resources.dll
+D:\00 S O U R C E\Novusmatic\Novusmatic\bin\Debug\ru\DevExpress.XtraBars.v18.2.resources.dll
+D:\00 S O U R C E\Novusmatic\Novusmatic\bin\Debug\de\DevExpress.XtraLayout.v18.2.resources.dll
+D:\00 S O U R C E\Novusmatic\Novusmatic\bin\Debug\es\DevExpress.XtraLayout.v18.2.resources.dll
+D:\00 S O U R C E\Novusmatic\Novusmatic\bin\Debug\ja\DevExpress.XtraLayout.v18.2.resources.dll
+D:\00 S O U R C E\Novusmatic\Novusmatic\bin\Debug\ru\DevExpress.XtraLayout.v18.2.resources.dll
+D:\00 S O U R C E\Novusmatic\Novusmatic\bin\Debug\de\DevExpress.XtraRichEdit.v18.2.resources.dll
+D:\00 S O U R C E\Novusmatic\Novusmatic\bin\Debug\es\DevExpress.XtraRichEdit.v18.2.resources.dll
+D:\00 S O U R C E\Novusmatic\Novusmatic\bin\Debug\ja\DevExpress.XtraRichEdit.v18.2.resources.dll
+D:\00 S O U R C E\Novusmatic\Novusmatic\bin\Debug\ru\DevExpress.XtraRichEdit.v18.2.resources.dll
+D:\00 S O U R C E\Novusmatic\Novusmatic\bin\Debug\de\DevExpress.XtraVerticalGrid.v18.2.resources.dll
+D:\00 S O U R C E\Novusmatic\Novusmatic\bin\Debug\es\DevExpress.XtraVerticalGrid.v18.2.resources.dll
+D:\00 S O U R C E\Novusmatic\Novusmatic\bin\Debug\ja\DevExpress.XtraVerticalGrid.v18.2.resources.dll
+D:\00 S O U R C E\Novusmatic\Novusmatic\bin\Debug\ru\DevExpress.XtraVerticalGrid.v18.2.resources.dll
+D:\00 S O U R C E\Novusmatic\Novusmatic\bin\Debug\de\DevExpress.DataAccess.v18.2.UI.resources.dll
+D:\00 S O U R C E\Novusmatic\Novusmatic\bin\Debug\es\DevExpress.DataAccess.v18.2.UI.resources.dll
+D:\00 S O U R C E\Novusmatic\Novusmatic\bin\Debug\ja\DevExpress.DataAccess.v18.2.UI.resources.dll
+D:\00 S O U R C E\Novusmatic\Novusmatic\bin\Debug\ru\DevExpress.DataAccess.v18.2.UI.resources.dll
+D:\00 S O U R C E\Novusmatic\Novusmatic\bin\Debug\de\DevExpress.XtraGrid.v18.2.resources.dll
+D:\00 S O U R C E\Novusmatic\Novusmatic\bin\Debug\es\DevExpress.XtraGrid.v18.2.resources.dll
+D:\00 S O U R C E\Novusmatic\Novusmatic\bin\Debug\ja\DevExpress.XtraGrid.v18.2.resources.dll
+D:\00 S O U R C E\Novusmatic\Novusmatic\bin\Debug\ru\DevExpress.XtraGrid.v18.2.resources.dll
+D:\00 S O U R C E\Novusmatic\Novusmatic\bin\Debug\de\DevExpress.XtraNavBar.v18.2.resources.dll
+D:\00 S O U R C E\Novusmatic\Novusmatic\bin\Debug\es\DevExpress.XtraNavBar.v18.2.resources.dll
+D:\00 S O U R C E\Novusmatic\Novusmatic\bin\Debug\ja\DevExpress.XtraNavBar.v18.2.resources.dll
+D:\00 S O U R C E\Novusmatic\Novusmatic\bin\Debug\ru\DevExpress.XtraNavBar.v18.2.resources.dll
+D:\00 S O U R C E\Novusmatic\Novusmatic\bin\Debug\de\DevExpress.XtraCharts.v18.2.Wizard.resources.dll
+D:\00 S O U R C E\Novusmatic\Novusmatic\bin\Debug\es\DevExpress.XtraCharts.v18.2.Wizard.resources.dll
+D:\00 S O U R C E\Novusmatic\Novusmatic\bin\Debug\ja\DevExpress.XtraCharts.v18.2.Wizard.resources.dll
+D:\00 S O U R C E\Novusmatic\Novusmatic\bin\Debug\ru\DevExpress.XtraCharts.v18.2.Wizard.resources.dll
+D:\00 S O U R C E\Novusmatic\Novusmatic\bin\Debug\de\DevExpress.XtraPivotGrid.v18.2.resources.dll
+D:\00 S O U R C E\Novusmatic\Novusmatic\bin\Debug\es\DevExpress.XtraPivotGrid.v18.2.resources.dll
+D:\00 S O U R C E\Novusmatic\Novusmatic\bin\Debug\ja\DevExpress.XtraPivotGrid.v18.2.resources.dll
+D:\00 S O U R C E\Novusmatic\Novusmatic\bin\Debug\ru\DevExpress.XtraPivotGrid.v18.2.resources.dll
+D:\00 S O U R C E\Novusmatic\Novusmatic\bin\Debug\de\DevExpress.Diagram.v18.2.Core.resources.dll
+D:\00 S O U R C E\Novusmatic\Novusmatic\bin\Debug\es\DevExpress.Diagram.v18.2.Core.resources.dll
+D:\00 S O U R C E\Novusmatic\Novusmatic\bin\Debug\ja\DevExpress.Diagram.v18.2.Core.resources.dll
+D:\00 S O U R C E\Novusmatic\Novusmatic\bin\Debug\ru\DevExpress.Diagram.v18.2.Core.resources.dll
+D:\00 S O U R C E\Novusmatic\Novusmatic\obj\Debug\Novusmatic.csproj.AssemblyReference.cache
+D:\00 S O U R C E\Novusmatic\Novusmatic\obj\Debug\Novusmatic.csproj.SuggestedBindingRedirects.cache
+D:\00 S O U R C E\Novusmatic\Novusmatic\obj\Debug\Novusmatic.frmBuscarMoneda.resources
+D:\00 S O U R C E\Novusmatic\Novusmatic\obj\Debug\Novusmatic.frmCatalogo.resources
+D:\00 S O U R C E\Novusmatic\Novusmatic\obj\Debug\Novusmatic.frmNovusmatic.resources
+D:\00 S O U R C E\Novusmatic\Novusmatic\obj\Debug\Novusmatic.frmProcesando.resources
+D:\00 S O U R C E\Novusmatic\Novusmatic\obj\Debug\Novusmatic.Properties.Resources.resources
+D:\00 S O U R C E\Novusmatic\Novusmatic\obj\Debug\Novusmatic.Reportes.XtraReportLista.resources
+D:\00 S O U R C E\Novusmatic\Novusmatic\obj\Debug\Novusmatic.Reportes.XtraReportTodo.resources
+D:\00 S O U R C E\Novusmatic\Novusmatic\obj\Debug\Novusmatic.csproj.GenerateResource.cache
+D:\00 S O U R C E\Novusmatic\Novusmatic\obj\Debug\Novusmatic.exe.licenses
+D:\00 S O U R C E\Novusmatic\Novusmatic\obj\Debug\Novusmatic.csproj.CoreCompileInputs.cache
+D:\00 S O U R C E\Novusmatic\Novusmatic\obj\Debug\Novusmatic.exe.manifest
+D:\00 S O U R C E\Novusmatic\Novusmatic\obj\Debug\Novusmatic.application
+D:\00 S O U R C E\Novusmatic\Novusmatic\obj\Debug\Novusmatic.csproj.CopyComplete
+D:\00 S O U R C E\Novusmatic\Novusmatic\obj\Debug\Novusmatic.exe
+D:\00 S O U R C E\Novusmatic\Novusmatic\obj\Debug\Novusmatic.pdb
